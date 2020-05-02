@@ -1,0 +1,45 @@
+.My-Cards {
+  display: flex;
+  position: relative;
+  width: 600px;
+  box-shadow: 0 0 15px 2px #333;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  .card {
+    cursor: pointer;
+    width: 100px;
+    transition: 0.3s;
+    border: 2px solid #ccc;
+    &.selected {
+      border: 2px solid #333;
+      box-shadow: 0 0 5px 0 black;
+    }
+  }
+  .buttons {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(0, -100%);
+    button {
+      cursor: pointer;
+      padding: 8px 20px;
+      border: 2px solid black;
+      transition: 0.3s;
+      &.take-cards {
+        background: deepskyblue;
+      }
+      &.attack {
+        background: #000;
+        color: white;
+      }
+      &.block {
+        background: linear-gradient(grey, white);
+      }
+      &:disabled {
+        background: grey;
+      }
+    }
+  }
+}

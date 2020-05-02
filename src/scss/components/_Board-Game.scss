@@ -1,0 +1,76 @@
+.Board-Game {
+  box-shadow: 0 0 15px 2px #333;
+  padding: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 900px;
+  margin: auto;
+  display: flex;
+  .active-cards {
+    flex: 2;
+    display: flex;
+    .card-wrapper {
+      position: relative;
+      .card {
+        cursor: pointer;
+        width: 80px;
+        margin: 0 5px;
+        transition: 0.3s;
+        border: 2px solid transparent;
+        box-shadow: 1px 1px 5px grey;
+        &.selected {
+          border: 2px solid black;
+        }
+        &.blocked {
+          filter: grayscale(100%);
+        }
+      }
+    }
+    .blocked-card {
+      position: absolute;
+      top: 35px;
+      left: 0;
+      width: 90px;
+      box-shadow: 1px 1px 5px grey;
+    }
+  }
+  .left-cards {
+    position: relative;
+    flex: 1;
+    border-left: 1px solid lighten(red, 30%);
+    text-align: center;
+    .first-card {
+      width: 200px;
+    }
+    .cards-box {
+      position: relative;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      text-align: left;
+      .card {
+        position: absolute;
+        width: 100px;
+        transform: translate(-50%, -50%);
+      }
+    }
+    .end-round,
+    .finish-round {
+      cursor: pointer;
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translate(-50%, 0);
+      border: 2px solid black;
+      padding: 8px 20px;
+      &.visible {
+        visibility: visible;
+      }
+      &.not-visible {
+        visibility: hidden;
+      }
+    }
+  }
+}
