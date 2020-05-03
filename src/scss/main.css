@@ -24,9 +24,16 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.App {
+.container {
+  padding: 10px 15px;
   width: 480px;
   margin: auto;
+}
+
+@media (max-width: 640px) {
+  .container {
+    width: 100%;
+  }
 }
 
 .Preloader {
@@ -40,11 +47,228 @@ body {
 
 .Preloader .content {
   position: relative;
-  width: 480px;
-  height: 480px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
+}
+
+.Preloader .content .box {
+  position: relative;
+}
+
+.Preloader .content .box svg {
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}
+
+.Preloader .content .box svg circle {
+  stroke-width: 12px;
+  background: #000;
+  stroke: deepskyblue;
+  -webkit-transition: 40ms;
+  transition: 40ms;
+}
+
+.Preloader .content .box .text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  font-size: 24px;
+  color: white;
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+.Preloader .content .box .text span {
+  font-size: 50%;
+}
+
+.Quiz {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: black;
+}
+
+.Quiz h1,
+.Quiz h2 {
+  color: white;
+  text-align: center;
+}
+
+.Quiz h1 {
+  font-size: 48px;
+}
+
+.Quiz h2 {
+  font-weight: 300;
+  margin: 20px 0;
+  font-size: 24px;
+}
+
+.Quiz .topics button {
+  border: 2px solid white;
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+  margin: 10px 0;
+  padding: 15px 20px;
+  width: 100%;
+  font-size: 20px;
+  background: #000;
+  color: white;
+  -webkit-transition: 0.7s;
+  transition: 0.7s;
+  z-index: 1;
+}
+
+.Quiz .topics button:before {
+  content: "";
+  position: absolute;
+  display: block;
+  top: 50%;
+  left: 50%;
+  width: 0px;
+  height: 0px;
+  background: url("../images/rectangle.png");
+  background-size: cover;
+  -webkit-transition: 0.7s;
+  transition: 0.7s;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  z-index: -1;
+}
+
+.Quiz .topics button:hover {
+  color: black;
+}
+
+.Quiz .topics button:hover:before {
+  width: 150px;
+  height: 150px;
+}
+
+.Game {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #000;
+}
+
+.Game .question {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.Game .answers button {
+  overflow: hidden;
+  position: relative;
+  border: 2px solid white;
+  cursor: pointer;
+  margin: 10px 0;
+  padding: 15px 20px;
+  background: #000;
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  width: 100%;
+}
+
+.Game .answers button:after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  width: 25px;
+  height: 25px;
+  -webkit-transform: translate(0%, -50%);
+          transform: translate(0%, -50%);
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  background: url("../images/checkmark.png");
+  background-size: cover;
+}
+
+.Game .answers button:hover {
   background: white;
+  color: black;
+  border-color: black;
+}
+
+.Game .answers button:hover:after {
+  -webkit-transform: translate(-150%, -50%);
+          transform: translate(-150%, -50%);
+}
+
+.Game .progress {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 8px;
+  height: 100%;
+  background: grey;
+}
+
+.Game .progress .bar {
+  width: 100%;
+  height: 30%;
+  background: deepskyblue;
+}
+
+.Game .progress .text {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  border: 1px solid white;
+  border-radius: 50%;
+  color: white;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.Results {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #f2f2f2;
+}
+
+.Results .content {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.Results .content p {
+  font-size: 24px;
+  font-weight: light;
+  text-align: center;
+}
+
+.Results .content button {
+  cursor: pointer;
+  font-size: 20px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 8px 20px;
+  background: lightblue;
 }
