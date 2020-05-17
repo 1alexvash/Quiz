@@ -5,12 +5,10 @@ import timerImg from "../../../images/timer.png";
 import { useStoreState, useStoreActions } from "easy-peasy";
 
 const Timer = ({ noAnswer }) => {
-  const responseTime = useStoreState((state) => state.game.responseTime);
-  const leftTime = useStoreState((state) => state.game.leftTime);
+  const { responseTime } = useStoreState((state) => state);
+  const { leftTime } = useStoreState((state) => state);
 
-  const updateLeftTime = useStoreActions(
-    (actions) => actions.game.updateLeftTime
-  );
+  const { updateLeftTime } = useStoreActions((actions) => actions);
 
   // const responseTime = 20;
   // const [leftTime, setLeftTime] = useState(responseTime);

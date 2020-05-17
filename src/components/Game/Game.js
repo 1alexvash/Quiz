@@ -15,8 +15,8 @@ import { useStoreState, useStoreActions } from "easy-peasy";
 // timer resets after the answer
 
 const Game = () => {
-  const { responseTime } = useStoreState((state) => state.game);
-  const { updateLeftTime } = useStoreActions((actions) => actions.game);
+  const { responseTime } = useStoreState((state) => state);
+  const { updateLeftTime } = useStoreActions((actions) => actions);
 
   const [score, setScore] = useState(0);
   const [currentQuestion, setCurrentQuestion] = useState(0);
