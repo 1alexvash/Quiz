@@ -12,15 +12,15 @@ const Quiz = () => {
   };
 
   useEffect(() => {
-    (async function () {
-      const data = categoriesJSON;
+    const data = [];
 
-      while (data.length > 7) {
-        data.splice(Math.round(Math.random() * data.length), 1);
-      }
+    while (data.length < 7) {
+      let random = Math.round(Math.random() * categoriesJSON.length);
 
-      setCategories(data);
-    })();
+      data.push(categoriesJSON.splice(random, 1)[0]);
+    }
+
+    setCategories(data);
   }, []);
 
   return (
@@ -28,19 +28,14 @@ const Quiz = () => {
       <div className="container">
         <h1>Quiz</h1>
         <h2>Choose topic:</h2>
-        {categories.length ? (
-          <div className="topics">
-            {categories.map(({ id, name }) => (
-              <button key={id} onClick={(e) => selectTopic(e)}>
-                {name}
-              </button>
-            ))}
-          </div>
-        ) : (
-          <h2>
-            <div className="spinner">Loading...</div>
-          </h2>
-        )}
+
+        <div className="topics">
+          {categories.map(({ id, name }) => (
+            <button key={id} onClick={(e) => selectTopic(e)}>
+              {name}
+            </button>
+          ))}
+        </div>
       </div>
     </div>
   );
