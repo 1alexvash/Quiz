@@ -1,8 +1,8 @@
-// https://opentdb.com/api_config.php
 // what's name for spinner?
 
 import React, { useState, useEffect } from "react";
-import axios from "axios";
+
+import categoriesJSON from "../data/categories.json";
 
 const Quiz = () => {
   const [categories, setCategories] = useState([]);
@@ -13,15 +13,12 @@ const Quiz = () => {
 
   useEffect(() => {
     (async function () {
-      const link = "https://opentdb.com/api_category.php";
-      const categories = await axios.get(link);
-      console.log("waiting");
-      const data = categories.data.trivia_categories;
+      const data = categoriesJSON;
 
       while (data.length > 7) {
         data.splice(Math.round(Math.random() * data.length), 1);
       }
-      console.log(categories);
+
       setCategories(data);
     })();
   }, []);
