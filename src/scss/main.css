@@ -161,7 +161,7 @@ body {
   background: #000;
 }
 
-.Game .question {
+.Game h2 {
   color: white;
   font-weight: bold;
   text-align: center;
@@ -212,7 +212,7 @@ body {
           transform: translate(-150%, -50%);
 }
 
-.Game .progress {
+.Game .Progress-bar {
   position: absolute;
   top: 0;
   right: 0;
@@ -221,13 +221,14 @@ body {
   background: grey;
 }
 
-.Game .progress .bar {
+.Game .Progress-bar .bar {
   width: 100%;
-  height: 30%;
   background: deepskyblue;
+  -webkit-transition: 1s;
+  transition: 1s;
 }
 
-.Game .progress .text {
+.Game .Progress-bar .text {
   position: absolute;
   top: 20px;
   right: 20px;
@@ -238,6 +239,44 @@ body {
   height: 50px;
   line-height: 50px;
   text-align: center;
+}
+
+.Game .Timer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+.Game .Timer .icon img {
+  width: 48px;
+  display: block;
+}
+
+.Game .Timer .text {
+  margin: 5px 0;
+  color: white;
+  font-weight: lighter;
+}
+
+.Game .Timer .progress {
+  position: relative;
+  height: 10px;
+  width: 100%;
+  background: lightgrey;
+  -webkit-box-shadow: 0 0 5px 2px white;
+          box-shadow: 0 0 5px 2px white;
+}
+
+.Game .Timer .progress .bar {
+  position: absolute;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  background: black;
+  -webkit-transition: 1s;
+  transition: 1s;
 }
 
 .Results {
@@ -271,4 +310,69 @@ body {
   margin-top: 20px;
   padding: 8px 20px;
   background: lightblue;
+}
+
+.spinner {
+  font-size: 10px;
+  margin: 50px auto;
+  text-indent: -9999em;
+  width: 175px;
+  height: 175px;
+  border-radius: 50%;
+  background: #ffffff;
+  background: -webkit-gradient(linear, left top, right top, color-stop(10%, white), color-stop(42%, rgba(255, 255, 255, 0)));
+  background: linear-gradient(to right, white 10%, rgba(255, 255, 255, 0) 42%);
+  position: relative;
+  -webkit-animation: spinAnimation 1.2s infinite linear;
+          animation: spinAnimation 1.2s infinite linear;
+  -webkit-transform: translateZ(0);
+          transform: translateZ(0);
+}
+
+.spinner:before {
+  width: 50%;
+  height: 50%;
+  background: #ffffff;
+  border-radius: 100% 0 0 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "";
+}
+
+.spinner:after {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 191, 255, 0.3)), to(rgba(255, 20, 147, 0.3)));
+  background: linear-gradient(rgba(0, 191, 255, 0.3), rgba(255, 20, 147, 0.3));
+  width: 75%;
+  height: 75%;
+  border-radius: 50%;
+  content: "";
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+@-webkit-keyframes spinAnimation {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes spinAnimation {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
 }

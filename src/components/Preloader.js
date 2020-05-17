@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { Redirect } from "react-router-dom";
 
 const Preloader = () => {
   const [showPreloader, setShowPreloader] = useState(true);
@@ -27,7 +28,7 @@ const Preloader = () => {
       </div>
     );
   } else {
-    return "";
+    return <Redirect to="/game" />;
   }
 };
 

@@ -1,30 +1,28 @@
 import React from "react";
 import "./scss/main.css";
-import { StoreProvider, createStore, action } from "easy-peasy";
+
+import { StoreProvider } from "easy-peasy";
+
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 import Preloader from "./components/Preloader";
 import Quiz from "./components/Quiz";
-import Game from "./components/Game";
+import Game from "./components/Game/Game";
 import Results from "./components/Results";
 
-const store = createStore({
-  todos: {
-    items: ["Create store", "Wrap application", "Use store"],
-    add: action((state, payload) => {
-      state.items.push(payload);
-    }),
-  },
-});
+import store from "./store";
 
 const App = () => {
   return (
     <StoreProvider store={store}>
-      <div className="App">
-        <Preloader />
-        <Quiz />
-        <Game />
-        <Results />
-      </div>
+      <Router>
+        <Switch>
+          <Route exact path="/" render={() => <Preloader />} />
+          <Route path="/quiz" render={() => <Quiz />} />
+          <Route path="/game" render={() => <Game />} />
+          <Route path="/results" render={() => <Results />} />
+        </Switch>
+      </Router>
     </StoreProvider>
   );
 };
