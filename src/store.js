@@ -1,14 +1,5 @@
-import { createStore, action } from "easy-peasy";
+import { createStore } from "easy-peasy";
 
-const store = createStore({
-  responseTime: 20,
-  leftTime: 20,
-  add: action((state, payload) => {
-    state.items.push(payload);
-  }),
-  updateLeftTime: action((state, payload) => {
-    state.leftTime = payload;
-  }),
-});
+const store = createStore({});
 
 export default store;

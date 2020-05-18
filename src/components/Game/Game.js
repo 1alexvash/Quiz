@@ -1,4 +1,4 @@
-import React, { useState, Fragment } from "react";
+import React, { useState, useEffect } from "react";
 
 import ProgressBar from "./ProgressBar/ProgressBar";
 import Timer from "./Timer/Timer";
@@ -6,77 +6,29 @@ import Timer from "./Timer/Timer";
 import successSound from "../../sounds/sound_success.mp3";
 import failureSound from "../../sounds/sound_failure.mp3";
 
-import { useStoreState, useStoreActions } from "easy-peasy";
+// import { useStoreState, useStoreActions } from "easy-peasy";
 
-// timer to answer the question
-// score of corrected answers
-// picking up questions with axios
-// redirecting to the results page
-// timer resets after the answer
+import questionsData from "../../data/questions.json";
+
+// Fix timer
+// Allow picking genres
+// Redirect to score pages
+
+const questions = questionsData.splice(0, 10);
+questions.forEach((q) => q.incorrect_answers.push(q.correct_answer));
+questions.forEach((q) => q.incorrect_answers.sort(() => 0.5 - Math.random()));
+
+const gameRoundTime = 20;
 
 const Game = () => {
-  const { responseTime } = useStoreState((state) => state);
-  const { updateLeftTime } = useStoreActions((actions) => actions);
-
+  const [secondsLeft, setSecondsLeft] = useState(gameRoundTime);
   const [score, setScore] = useState(0);
   const [currentQuestion, setCurrentQuestion] = useState(0);
-  const questions = [
-    {
-      question: "Sum 5 + 5",
-      answers: ["5", "10", "15", "20"],
-      correctAnswer: "10",
-    },
-    {
-      question: "My question",
-      answers: ["answer1", "answer2", "answer3", "answer4"],
-      correctAnswer: "answer1",
-    },
-    {
-      question: "My question",
-      answers: ["answer1", "answer2", "answer3", "answer4"],
-      correctAnswer: "answer1",
-    },
-    {
-      question: "My question",
-      answers: ["answer1", "answer2", "answer3", "answer4"],
-      correctAnswer: "answer1",
-    },
-    {
-      question: "My question",
-      answers: ["answer1", "answer2", "answer3", "answer4"],
-      correctAnswer: "answer1",
-    },
-    {
-      question: "My question",
-      answers: ["answer1", "answer2", "answer3", "answer4"],
-      correctAnswer: "answer1",
-    },
-    {
-      question: "My question",
-      answers: ["answer1", "answer2", "answer3", "answer4"],
-      correctAnswer: "answer1",
-    },
-    {
-      question: "My question",
-      answers: ["answer1", "answer2", "answer3", "answer4"],
-      correctAnswer: "answer1",
-    },
-    {
-      question: "My question",
-      answers: ["answer1", "answer2", "answer3", "answer4"],
-      correctAnswer: "answer1",
-    },
-    {
-      question: "Last question",
-      answers: ["answer1", "hardanswer", "answer3", "answer4"],
-      correctAnswer: "answer1",
-    },
-  ];
 
   const nextRound = () => {
     if (currentQuestion < questions.length) {
+      setSecondsLeft(gameRoundTime);
       setCurrentQuestion(currentQuestion + 1);
-      updateLeftTime(20);
     } else {
       console.log("The game is over");
     }
@@ -89,7 +41,8 @@ const Game = () => {
 
   const checkAnswer = (answer) => {
     const myAnswer = answer;
-    const { correctAnswer } = questions[currentQuestion];
+    const correctAnswer = questions[currentQuestion].correct_answer;
+    console.log("correctAnswer:", correctAnswer);
 
     if (myAnswer === correctAnswer) {
       setScore(score + 1);
@@ -107,28 +60,39 @@ const Game = () => {
     nextRound();
   };
 
+  useEffect(() => {
+    const timer = setInterval(() => {
+      if (secondsLeft === 0) {
+        noAnswer();
+        setSecondsLeft(gameRoundTime);
+      } else {
+        setSecondsLeft(secondsLeft - 1);
+      }
+      console.log("component game mounted", secondsLeft);
+    }, 1000);
+    return () => clearInterval(timer);
+  }, [secondsLeft, nextRound, noAnswer]);
+
   const gameActive = currentQuestion < questions.length;
 
   return (
     <div className="Game">
-      <div className="container">
-        {gameActive ? (
-          <Fragment>
-            <h2>{questions[currentQuestion].question}</h2>
-            <div className="answers">
-              {questions[currentQuestion].answers.map((answer) => (
-                <button key={answer} onClick={() => checkAnswer(answer)}>
-                  {answer}
-                </button>
-              ))}
-            </div>
-          </Fragment>
-        ) : (
-          <h2>"The game is over"</h2>
-        )}
-      </div>
+      {gameActive ? (
+        <div className="container">
+          <h2>{questions[currentQuestion].question}</h2>
+          <div className="answers">
+            {questions[currentQuestion].incorrect_answers.map((answer) => (
+              <button key={answer} onClick={() => checkAnswer(answer)}>
+                {answer}
+              </button>
+            ))}
+          </div>
+        </div>
+      ) : (
+        <h2>"The game is over"</h2>
+      )}
       <ProgressBar currentQuestion={currentQuestion} questions={questions} />
-      <Timer noAnswer={noAnswer} />
+      <Timer secondsLeft={secondsLeft} gameRoundTime={gameRoundTime} />
     </div>
   );
 };
