@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Quiz/static/css/main.1f0c7086.chunk.css",
+    "main.js": "/Quiz/static/js/main.c9d17a2d.chunk.js",
+    "main.js.map": "/Quiz/static/js/main.c9d17a2d.chunk.js.map",
+    "runtime-main.js": "/Quiz/static/js/runtime-main.621570c9.js",
+    "runtime-main.js.map": "/Quiz/static/js/runtime-main.621570c9.js.map",
+    "static/js/2.9d268d3c.chunk.js": "/Quiz/static/js/2.9d268d3c.chunk.js",
+    "static/js/2.9d268d3c.chunk.js.map": "/Quiz/static/js/2.9d268d3c.chunk.js.map",
+    "index.html": "/Quiz/index.html",
+    "precache-manifest.7d56ca2e4b9a2fed385823291f2eaa8a.js": "/Quiz/precache-manifest.7d56ca2e4b9a2fed385823291f2eaa8a.js",
+    "service-worker.js": "/Quiz/service-worker.js",
+    "static/css/main.1f0c7086.chunk.css.map": "/Quiz/static/css/main.1f0c7086.chunk.css.map",
+    "static/js/2.9d268d3c.chunk.js.LICENSE.txt": "/Quiz/static/js/2.9d268d3c.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/Quiz/static/media/rectangle.335ef8ac.png",
+    "static/media/sound_failure.mp3": "/Quiz/static/media/sound_failure.7768c1d0.mp3",
+    "static/media/sound_success.mp3": "/Quiz/static/media/sound_success.dcbb5b43.mp3",
+    "static/media/timer.png": "/Quiz/static/media/timer.3d34c880.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.621570c9.js",
+    "static/js/2.9d268d3c.chunk.js",
+    "static/css/main.1f0c7086.chunk.css",
+    "static/js/main.c9d17a2d.chunk.js"
+  ]
+}
