@@ -1,6 +1,6 @@
 [
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "The board game \"Monopoly\" is a variation of what board game?",
@@ -20,7 +20,7 @@
     "incorrect_answers": ["Cranium", "Humerus", "Tibia"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the TV show 'M*A*S*H', what was the nickname of Corporal Walter O'Reilly?",
@@ -36,7 +36,7 @@
     "incorrect_answers": ["Mars", "Mercury", "Jupiter"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In which 1955 film does Frank Sinatra play Nathan Detroit?",
@@ -56,7 +56,7 @@
     "incorrect_answers": ["1903", "1913", "1933"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who is the only voice actor to have a speaking part in all of the Disney Pixar feature films? ",
@@ -64,7 +64,7 @@
     "incorrect_answers": ["Tom Hanks", "Dave Foley", "Geoffrey Rush"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Who had a 1981 hit with the song \"Japanese Boy\"?",
@@ -88,7 +88,7 @@
     "incorrect_answers": ["Fahrenheit", "Celsius", "Rankine"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the relationship between Rick and Morty in the show \"Rick and Morty\"?",
@@ -108,7 +108,7 @@
     "incorrect_answers": ["Honda", "Ford", "Volkswagen"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these songs by Skrillex features Fatman Scoop as a side artist?",
@@ -120,7 +120,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was the first \"Team Fortress 2\" update to include a war?",
@@ -140,7 +140,7 @@
     "incorrect_answers": ["August 21", "December 26", "December 24"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these is NOT the name of a rival gang in the video game Saint's Row 2?",
@@ -148,7 +148,7 @@
     "incorrect_answers": ["The Brotherhood", "The Ronin", "The Sons of Samedi"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which of the following is NOT a real song from the band Thousand Foot Krutch?",
@@ -156,7 +156,7 @@
     "incorrect_answers": ["Let The Sparks Fly", "Down", "Give Up The Ghost"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What is the English title of the vaporwave track \"リサフランク420 / 現代のコンピュー\" by Macintosh Plus (Vektroid)?",
@@ -184,7 +184,7 @@
     "incorrect_answers": ["42 BCE", "264 BCE", "102 CE"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "The Touhou Project series of games is often associated with which genre?",
@@ -208,7 +208,7 @@
     "incorrect_answers": ["Canis Aureus", "Canis Latrans", "Canis Lupus Lycaon"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who wrote the young adult novel \"The Fault in Our Stars\"?",
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In vanilla Minecraft, you can make armor out of all BUT which of the following?",
@@ -244,7 +244,7 @@
     "incorrect_answers": ["3", "5", "6"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In Monster Hunter Generations, which of these hunter arts are exclusive to the Longsword?",
@@ -252,7 +252,7 @@
     "incorrect_answers": ["Shoryugeki", "Provoke", "Demon Riot"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "According to a song by Belinda Carlisle, Heaven is a place on what?",
@@ -260,7 +260,7 @@
     "incorrect_answers": ["Venus", "Mars", "Uranus"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What musician made the song \"Fuckin` Perfect\" in 2010?",
@@ -296,7 +296,7 @@
     "incorrect_answers": ["dr", "Dp", "r"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the game Pokémon Conquest, which warlord is able to bond with Zekrom and a shiny Rayquazza?",
@@ -312,7 +312,7 @@
     "incorrect_answers": ["1986", "1989", "1997"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who plays \"Bruce Wayne\" in the 2008 movie \"The Dark Knight\"?",
@@ -320,7 +320,7 @@
     "incorrect_answers": ["Michael Caine", "Ron Dean", "Heath Ledger"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What was the name of the cold-war singer who has a song in Grand Theft Auto IV, and a wall landmark in Moscow for his memorial?",
@@ -328,7 +328,7 @@
     "incorrect_answers": ["Jimi Hendrix", "Brian Jones", "Vladimir Vysotsky"]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which card is on the cover of the Beta rulebook of \"Magic: The Gathering\"?",
@@ -360,7 +360,7 @@
     "incorrect_answers": ["Netherlands", "France", "USA"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Benny, Brain, Fancy-Fancy, Spook and Choo-Choo were known associates of what Hanna Barbera cartoon character?",
@@ -384,7 +384,7 @@
     "incorrect_answers": ["7", "8", "5"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "When Halo 3: ODST was unveiled in 2008, it had a different title. What was the game formally called?",
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which movie released in 2016 features Superman and Batman fighting?",
@@ -408,7 +408,7 @@
     ]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In a standard game of Monopoly, what colour are the two cheapest properties?",
@@ -432,7 +432,7 @@
     "incorrect_answers": ["Jupiter", "Venus", "Neptune"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
@@ -440,7 +440,7 @@
     "incorrect_answers": ["Flash Gordon", "Labyrinth", "Howard the Duck"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which Beatle led the way across the zebra crossing on the Abbey Road album cover?",
@@ -448,7 +448,7 @@
     "incorrect_answers": ["Paul", "George", "Ringo"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "This movie contains the quote, \"Nobody puts Baby in a corner.\"",
@@ -472,7 +472,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In 2015, David Hasselhof released a single called...",
@@ -480,7 +480,7 @@
     "incorrect_answers": ["True Fighter", "Real Kung-Fury", "Real Warrior"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the name of the Artificial Intelligence system in the 1983 film, \"WarGames\"?",
@@ -500,7 +500,7 @@
     "incorrect_answers": ["Skin", "Brain", "Heart"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which artist collaborated with American DJ Dillon Francis to release the song 2016 \"Need You\"?",
@@ -532,7 +532,7 @@
     "incorrect_answers": ["Caspian Sea", "Lake Michigan", "Lake Huron"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the videogame Bully, what is the protagonist's last name?",
@@ -580,7 +580,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What is the name of the song by Beyoncé and Alejandro Fernández released in 2007?",
@@ -588,7 +588,7 @@
     "incorrect_answers": ["La ultima vez", "Rocket", "Hasta Dondes Estes"]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Chess, the Queen has the combined movement of which two pieces?",
@@ -612,7 +612,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the original DOOM (1993) which of the following is NOT a cheat code?",
@@ -620,7 +620,7 @@
     "incorrect_answers": ["IDFA", "IDDQD", "IDSPISPOPD"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these is not a DLC vehicle in \"Mario Kart 8\"?",
@@ -636,7 +636,7 @@
     "incorrect_answers": ["LB&SCR E2", "LB&SCR J1", "LB&SCR D1"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was David Bowie's real surname?",
@@ -644,7 +644,7 @@
     "incorrect_answers": ["Johnson", "Edwards", "Carter"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"To Love-Ru: Darkness\", which of the girls attempt making a harem for Rito Yuuki?",
@@ -672,7 +672,7 @@
     "incorrect_answers": ["Blue Whale", "Redwood Tree", "The Coral Reef"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Grand Theft Auto: V, what wanted level does the player receive if they enter Zancudo Army Base north of Los Santos?",
@@ -680,7 +680,7 @@
     "incorrect_answers": ["3", "5", "1"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these characters won the Super Smash Bros. Fighter Ballot in 2015?",
@@ -688,7 +688,7 @@
     "incorrect_answers": ["Cloud", "Ryu", "Megaman"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of the following Call of Duty games was a PS3 launch title?",
@@ -720,7 +720,7 @@
     "incorrect_answers": ["Pope Urban IV", "Pope Stephen V", "Pope Valentine"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What is the first track on the Dave Matthews Band album \"Before These Crowded Streets\"?",
@@ -748,7 +748,7 @@
     "incorrect_answers": ["Smoking", "Stealing", "Cheating"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In 2004, which person(s) created \"Roblox\"?",
@@ -788,7 +788,7 @@
     "incorrect_answers": ["380.1215 Inches", "3141.5 Inches", "1256.6 Inches"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which video game earned music composer Mike Morasky the most awards for his work?",
@@ -856,7 +856,7 @@
     "incorrect_answers": ["HSBC", "Standard Chartered", "Bank of China"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the Portal series, Aperture Science was founded under what name in the early 1940s?",
@@ -868,7 +868,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the game \"Overwatch,\" what are the names of the two Australian criminals from the Junkers faction?",
@@ -880,7 +880,7 @@
     ]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What year was \"JoJo's Bizarre Adventure: Phantom Blood\" first released?",
@@ -916,7 +916,7 @@
     "incorrect_answers": ["Helium", "Lithium", "Oxygen"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of the following is NOT a summon in the game \"South Park: The Stick of Truth\"?",
@@ -924,7 +924,7 @@
     "incorrect_answers": ["Jesus", "Mr. Hankey", "Mr. Slave"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these is NOT the name of a team leader in Pokémon GO?",
@@ -948,7 +948,7 @@
     "incorrect_answers": ["Pearl Harbor", "September 11th", "D-Day"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which country does the YouTuber \"SinowBeats\" originate from?",
@@ -956,7 +956,7 @@
     "incorrect_answers": ["England", "Sweden", "Germany"]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "The board game Monopoly takes its street names from which real American city?",
@@ -968,7 +968,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
@@ -980,7 +980,7 @@
     ]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who is the author of the manga series \"Astro Boy\"?",
@@ -1004,7 +1004,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "\"Gimmick!\" is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?",
@@ -1012,7 +1012,7 @@
     "incorrect_answers": ["VRC7", "VRC6", "MMC5"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which team won the \"Tom Clancy's Rainbow Six Siege\" Invitational Event February 2017 in the PC Category?",
@@ -1020,7 +1020,7 @@
     "incorrect_answers": ["GIFU", "Santos Dexterity", "eRa Eternity"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Dota 2, what is Earthshaker's real name?",
@@ -1040,7 +1040,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the \"Little Lost Girl\" Easter Egg in Call of Duty: Black Ops II, what's the last step required for the achievement?",
@@ -1064,7 +1064,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these songs is not on the \"untitled\" album by Led Zeppelin?",
@@ -1072,7 +1072,7 @@
     "incorrect_answers": ["Stairway to Heaven", "Black Dog", "Rock and Roll"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Before \"Jurassic Park III\" was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?",
@@ -1080,7 +1080,7 @@
     "incorrect_answers": ["Tyrannosaurus Rex", "Velociraptor", "Suchomimus"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In Margaret Atwood's \"The Handmaid's Tale\", what is Offred's real name is implied to be?",
@@ -1096,7 +1096,7 @@
     "incorrect_answers": ["Justin DeSeno", "John DeSeno", "Jimmy DeSeno"]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the full first name of the babysitter in Calvin and Hobbes?",
@@ -1120,7 +1120,7 @@
     "incorrect_answers": ["Selenium", "Antimony", "Molybdenum"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of the following Pokemon Types was present in the original games, Red and Blue?",
@@ -1180,7 +1180,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who voiced the character Draco in the 1996 movie 'DragonHeart'?",
@@ -1192,7 +1192,7 @@
     ]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Dragon Ball Z, who was the first character to go Super Saiyan 2?",
@@ -1236,7 +1236,7 @@
     "incorrect_answers": ["2", "4", "0"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who is the protagonist in Dead Rising (2006)?",
@@ -1244,7 +1244,7 @@
     "incorrect_answers": ["Chuck Greene", "John North", "Jason Grey"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which one of these actors is said to be cut from the film 'E.T. the Extra-Terrestrial'?",
@@ -1256,7 +1256,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these is NOT a Humongous Entertainment game franchise?",
@@ -1264,7 +1264,7 @@
     "incorrect_answers": ["Pajama Sam", "Putt-Putt", "Freddi Fish"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these is NOT a playable character in \"Left 4 Dead\"?",
@@ -1272,7 +1272,7 @@
     "incorrect_answers": ["Louis", "Zoey", "Bill"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In vanilla Minecraft, which of the following cannot be made into a block?",
@@ -1300,7 +1300,7 @@
     "incorrect_answers": ["2001", "2011", "1991"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Sting, the lead vocalist of The Police, primarily plays what instrument?",
@@ -1308,7 +1308,7 @@
     "incorrect_answers": ["Drums", "Guitar", "Keyboards"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "medium",
     "question": "J.K. Rowling completed \"Harry Potter and the Deathly Hallows\" in which hotel in Edinburgh, Scotland?",
@@ -1332,7 +1332,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which car did not appear in the 2002 Lego Game: Drome Racers?",
@@ -1352,7 +1352,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In what year was Hearthstone released?",
@@ -1368,7 +1368,7 @@
     "incorrect_answers": ["Great Barrier Reef", "Mariana Trench", "Hudson Bay"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Cryoshell, known for \"Creeping in My Soul\" did the advertising music for what Lego Theme?",
@@ -1376,7 +1376,7 @@
     "incorrect_answers": ["Hero Factory", "Ben 10 Alien Force", "Star Wars"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Overwatch, how old is Reinhardt Wilhelm?",
@@ -1384,7 +1384,7 @@
     "incorrect_answers": ["59", "65", "62"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "When was Gangnam Style uploaded to YouTube?",
@@ -1392,7 +1392,7 @@
     "incorrect_answers": ["2013", "2014", "2011"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which race enjoys a glass of warm baghol in \"Star Trek\"?",
@@ -1400,7 +1400,7 @@
     "incorrect_answers": ["Vulcan", "Human", "Botha"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which former boy-band star released hit solo single \"Angels\" in 1997?",
@@ -1408,7 +1408,7 @@
     "incorrect_answers": ["Justin Timberlake", "Harry Styles", "Gary Barlow"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which of these voices wasn't a choice for the House AI in \"The Simpsons Treehouse of Horror\" short, House of Whacks?",
@@ -1416,7 +1416,7 @@
     "incorrect_answers": ["Matthew Perry", "Dennis Miller", "Pierce Brosnan"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?",
@@ -1428,7 +1428,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Portal, what color is the Morality Core?",
@@ -1436,7 +1436,7 @@
     "incorrect_answers": ["Red", "Yellow", "Blue"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"The Simpsons\", what is the real name of \"Comic Book Guy\"?",
@@ -1444,7 +1444,7 @@
     "incorrect_answers": ["Comic Book Guy", "Edward Stone", "Jack Richardson"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Lanky, Funky, and Chunky are all characters featured in which series owned by Nintendo?",
@@ -1452,7 +1452,7 @@
     "incorrect_answers": ["Mario", "Kirby", "Zelda"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the \"Pikmin\" series, what is the only pikmin type to possess visible ears?",
@@ -1476,7 +1476,7 @@
     "incorrect_answers": ["Roy Jones Jr.", "Evander Holyfield", "Lennox Lewis"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which Aerosmith album featured \"Walk This Way\"?",
@@ -1484,7 +1484,7 @@
     "incorrect_answers": ["Rocks", "Get Your Wings", "Draw the Line"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "When was \"Luigi's Mansion 3\" released?",
@@ -1504,7 +1504,7 @@
     "incorrect_answers": ["South Africa", "Australia", "Madagascar"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who is the only voice actor to have a speaking part in all of the Disney Pixar feature films? ",
@@ -1512,7 +1512,7 @@
     "incorrect_answers": ["Tom Hanks", "Dave Foley", "Geoffrey Rush"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these weapons is NOT available to the Terrorist team in the game, \"Counter-Strike: Global Offensive\"?",
@@ -1535,14 +1535,7 @@
     "correct_answer": "38",
     "incorrect_answers": ["73", "47", "11"]
   },
-  {
-    "category": "Politics",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which letter do you need to have on a European driver license in order to ride any motorbikes?",
-    "correct_answer": "A",
-    "incorrect_answers": ["X", "D", "B"]
-  },
+
   {
     "category": "History",
     "type": "multiple",
@@ -1552,7 +1545,7 @@
     "incorrect_answers": ["Five", "Thrice", "Once"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these is NOT a faction included in the game Counter-Strike: Global Offensive?",
@@ -1576,7 +1569,7 @@
     "incorrect_answers": ["50", "25", "69"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the first weapon you acquire in Half-Life?",
@@ -1612,7 +1605,7 @@
     "incorrect_answers": ["France", "Germany", "England"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which Animal Crossing game was for the Nintendo Wii?",
@@ -1624,7 +1617,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the last song on the first Panic! At the Disco album?",
@@ -1636,7 +1629,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In 2006, which band released their debut album \"A Fever You Can't Sweat Out\"?",
@@ -1648,7 +1641,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What video game genre were the original Warcraft games?",
@@ -1660,7 +1653,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?",
@@ -1676,7 +1669,7 @@
     "incorrect_answers": ["Mount Godwin Austen", "Kangchenjunga", "Annapurna"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In \"Star Trek\", what sauce is commonly used by Klingons on bregit lung?",
@@ -1700,7 +1693,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of the following colors does the Zombie eyes glow in the \"Nuketown\" map in \"Call of Duty: Black Ops II\" Zombies mode?",
@@ -1716,7 +1709,7 @@
     "incorrect_answers": ["Golden Eagle", "Cheetah", "Horsefly"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"Black Lagoon\", what colour is Rock's tie?",
@@ -1724,7 +1717,7 @@
     "incorrect_answers": ["Crimson", "Dark Brown", "Black"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Grand Theft Auto: V, what wanted level does the player receive if they enter Zancudo Army Base north of Los Santos?",
@@ -1732,7 +1725,7 @@
     "incorrect_answers": ["3", "5", "1"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the Friday The 13th series, what is Jason's mother's first name?",
@@ -1760,7 +1753,7 @@
     "incorrect_answers": ["47 Earth years", "62 Earth years", "109 Earth years"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which Japanese music group was formed to produce theme music for the anime \"Guilty Crown\"?",
@@ -1768,7 +1761,7 @@
     "incorrect_answers": ["Goose house", "Babymetal", "Garnidelia"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "From which country does the piano originate?",
@@ -1776,7 +1769,7 @@
     "incorrect_answers": ["Germany", "Austria", "France"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which one of these is NOT an official map in Counter-Strike: Global Offensive?",
@@ -1816,7 +1809,7 @@
     "incorrect_answers": ["Cough", "Yawn", "Hiccup"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was Britney Spears' debut single?",
@@ -1828,7 +1821,7 @@
     ]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "How does the character Dragowizard, Qinus Axia's from the anime \"Buddyfight\" differ between the Japanese and English dubs?",
@@ -1840,7 +1833,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the 2014 film \"Birdman\", what is the primary instrument in the score?",
@@ -1848,7 +1841,7 @@
     "incorrect_answers": ["Saxophone", "Violin", "Actual Live Birds Singing"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which part from the JoJo's Bizarre Adventure manga is about a horse race across America?",
@@ -1912,7 +1905,7 @@
     "incorrect_answers": ["Aristotle", "Plato", "Pythagoras"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was the character Kirby originally going to be named?",
@@ -1928,7 +1921,7 @@
     "incorrect_answers": ["Santiago", "Montevideo", "Buenos Aires"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Just Cause 2 was mainly set in what fictional Southeast Asian island country?",
@@ -1936,7 +1929,7 @@
     "incorrect_answers": ["Davao", "Macau", "Palau"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What was the first Disney movie to use CGI?",
@@ -1952,7 +1945,7 @@
     "incorrect_answers": ["Washington D.C.", "Seattle", "Yukon"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which band name isn't a Stand in \"JoJo's Bizzare Adventure\"?",
@@ -2000,7 +1993,7 @@
     "incorrect_answers": ["50", "25", "69"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the 1993 Disney animated series \"Bonkers\", what is the name of Bonker's second partner?",
@@ -2008,7 +2001,7 @@
     "incorrect_answers": ["Dick Tracy", "Eddie Valiant", "Dr. Ludwig von Drake"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the name of the 2016 studio album by the French electronic music duo Justice?",
@@ -2016,7 +2009,7 @@
     "incorrect_answers": ["Randy", "Safe and Sound", "Pleasure"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the videogame Bully, what is the protagonist's last name?",
@@ -2024,7 +2017,7 @@
     "incorrect_answers": ["Smith", "Kowalski", "Crabblesnitch"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Final Fantasy VI was originally released outside Japan under what name?",
@@ -2068,7 +2061,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of the following characters from the game \"Overwatch\" was revealed to be homosexual in December of 2016?",
@@ -2083,16 +2076,9 @@
     "correct_answer": "New Delhi",
     "incorrect_answers": ["Bejing", "Montreal", "Tithi"]
   },
+
   {
-    "category": "Entertainment: Musicals & Theatres",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "\"Doctor Who\" star David Tennant performed in a rendition of which Shakespearean play?",
-    "correct_answer": "Hamlet",
-    "incorrect_answers": ["The Tempest", "Othello", "The Taming of the Shrew"]
-  },
-  {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the game \"Hearthstone\", what is the best rank possible?",
@@ -2100,7 +2086,7 @@
     "incorrect_answers": ["Rank 1 Elite", "Rank 1 Master", "Rank 1 Supreme"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the name of the common, gun-toting enemies of the \"Oddworld\" video game series?",
@@ -2120,7 +2106,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the \"Call Of Duty: Zombies\" map \"Moon\", there is a secondary called the QED. What does QED stand for?",
@@ -2132,7 +2118,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"Call Of Duty: Zombies\", what does the game traditionally reward you for completing a boss round?",
@@ -2152,7 +2138,7 @@
     "incorrect_answers": ["Stalingrad", "Crimea", "Voronezh"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Where does the original Friday The 13th movie take place?",
@@ -2176,7 +2162,7 @@
     "incorrect_answers": ["4", "9", "2"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "The 1985 Toyota Corolla \"AE86\" was the hero car for what anime? ",
@@ -2192,7 +2178,7 @@
     "incorrect_answers": ["South Korea", "Japan", "China"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In \"Pheonix Wright: Ace Attorney\" which character is the District Chief of Police?",
@@ -2200,7 +2186,7 @@
     "incorrect_answers": ["Miles Edgeworth", "Lana Skye", "Mike Meekins"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In Left 4 Dead, what is the character Bill's last name?",
@@ -2208,7 +2194,7 @@
     "incorrect_answers": ["Fish", "Roberts", "Stevenson"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which actor was not a major character in TV Show Freaks and Geeks?",
@@ -2216,7 +2202,7 @@
     "incorrect_answers": ["Jason Segel", "Seth Rogen", "James Franco"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the 2014 film \"Birdman\", what is the primary instrument in the score?",
@@ -2308,7 +2294,7 @@
     "incorrect_answers": ["1992", "1988", "1986"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What is the name of the main character in the video game VA-11 HALL-A: Cyberpunk Bartender Action?",
@@ -2324,7 +2310,7 @@
     "incorrect_answers": ["1930", "1917", "1939"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these is not a real character in the cartoon series My Little Pony: Friendship is Magic?",
@@ -2332,7 +2318,7 @@
     "incorrect_answers": ["Pinkie Pie", "Maud Pie", "Rainbow Dash"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the beta version of the 1986 game \"The Legend of Zelda\", players have the choice between a sword and what other item?",
@@ -2340,7 +2326,7 @@
     "incorrect_answers": ["Spear", "Slingshot", "Crossbow"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the web-comic Homestuck, what is the name of the game the 4 kids play?",
@@ -2348,7 +2334,7 @@
     "incorrect_answers": ["Homesick", "Husslie", "Hiveswap"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the game Paper Mario for the Nintendo 64 the first partner you meet is a Goomba, what is its name?",
@@ -2356,7 +2342,7 @@
     "incorrect_answers": ["Goombella", "Goombarry", "Goomby"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the game Battleblock Theater, what was the name of the voice actor who voiced the narrator?",
@@ -2364,7 +2350,7 @@
     "incorrect_answers": ["Steve Blum", "Richard Epcar", "Yuri Lowenthal"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
@@ -2388,7 +2374,7 @@
     "incorrect_answers": ["Football", "Tennis", "Soccer"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which of these weapon classes DO NOT appear in the first Monster Hunter game?",
@@ -2408,7 +2394,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these songs does NOT play during the Ruins segments of the 2015 game \"Undertale\"?",
@@ -2416,7 +2402,7 @@
     "incorrect_answers": ["Anticipation", "Unnecessary Tension", "Ruins"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which animation studio animated the 2016 anime \"Mob Psycho 100\"?",
@@ -2424,7 +2410,7 @@
     "incorrect_answers": ["A-1 Pictures", "Shaft", "Madhouse"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In what year was \"Antichamber\" released?",
@@ -2432,7 +2418,7 @@
     "incorrect_answers": ["2012", "2014", "2011"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these is not the name of a city in the Grand Theft Auto series?",
@@ -2440,7 +2426,7 @@
     "incorrect_answers": ["San Fierro", "Las Venturas", "Vice City"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the game Danganronpa: Happy Trigger Havoc, the character Aoi Asahina's ultimate ability is what?",
@@ -2452,7 +2438,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which Elite Four member from the first generation of Pokémon became the champion in the next generation?",
@@ -2460,7 +2446,7 @@
     "incorrect_answers": ["Agatha", "Bruno", "Lorelei"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which Overwatch character says the line \"Heroes never die!\"?",
@@ -2468,7 +2454,7 @@
     "incorrect_answers": ["Reaper", "Sonic", "Ana"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "When did The Beatles release the LP \"Please Please Me\"?",
@@ -2476,7 +2462,7 @@
     "incorrect_answers": ["1970", "1960", "1969"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the Portal series of games, who was the founder of Aperture Science?",
@@ -2484,7 +2470,7 @@
     "incorrect_answers": ["GLaDOs", "Wallace Breen", "Gordon Freeman"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In 2006, which band released their debut album \"A Fever You Can't Sweat Out\"?",
@@ -2496,7 +2482,7 @@
     ]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is lost in Hawaiian and is also the name of a little girl in a 2002 film which features a alien named \"Stitch\"?",
@@ -2504,7 +2490,7 @@
     "incorrect_answers": ["Lolo", "Lucy", "Lulu"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What video game engine does the videogame Quake 2 run in?",
@@ -2512,7 +2498,7 @@
     "incorrect_answers": ["iD Tech 3", "iD Tech 1", "Unreal Engine"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the 1995 film \"Balto\", who are Steele's accomplices?",
@@ -2524,23 +2510,16 @@
     ]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"One Piece\", which one of the following is NOT an Ancient Weapon?",
     "correct_answer": "Jupiter",
     "incorrect_answers": ["Uranus", "Poseidon", "Pluton"]
   },
+
   {
-    "category": "Politics",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which of the following United States senators is known for performing a 24-hour long filibuster?",
-    "correct_answer": "Strom Thurmond",
-    "incorrect_answers": ["Roy Blunt", "John Barrasso", "Chuck Schumer"]
-  },
-  {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What is the name of the supercomputer located in the control room in \"Jurassic Park\" (1993)?",
@@ -2548,7 +2527,7 @@
     "incorrect_answers": ["Cray X-MP", "Cray XK7", "IBM Blue Gene/Q"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "When was the Valve Corporation founded?",
@@ -2568,7 +2547,7 @@
     "incorrect_answers": ["100", "500", "1000"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the only Generation III Pokemon whose name begins with the letter I?",
@@ -2576,7 +2555,7 @@
     "incorrect_answers": ["Infernape", "Ivysaur", "Igglybuff"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
@@ -2584,7 +2563,7 @@
     "incorrect_answers": ["John", "Will", "Carl"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who provided a majority of the songs and lyrics for \"Spirit: Stallion of the Cimarron\"?",
@@ -2592,7 +2571,7 @@
     "incorrect_answers": ["Smash Mouth", "Oasis", "Air Supply"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What was the first game in the \"Battlefield\" series?",
@@ -2620,7 +2599,7 @@
     "incorrect_answers": ["Birds", "Flying", "Germs"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which music publication is often abbreviated to NME?",
@@ -2632,7 +2611,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which musical artist had a prominent role in the 2017 film \"Kingsman: The Golden Circle\"?",
@@ -2680,7 +2659,7 @@
     "incorrect_answers": ["December 7, 1941", "June 22, 1941", "July 7, 1937"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these video game engines was made by the company Epic Games?",
@@ -2688,7 +2667,7 @@
     "incorrect_answers": ["Unity", "Game Maker: Studio", "Cry Engine"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What does TIE stand for in reference to the TIE Fighter in \"Star Wars\"?",
@@ -2708,7 +2687,7 @@
     "incorrect_answers": ["W", "U", "J"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"Clash Royale\" what is Arena 4 called?",
@@ -2716,7 +2695,7 @@
     "incorrect_answers": ["Barbarian Bowl", "Spell Valley", "Royal Arena"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Where was the Sniper character in Team Fortress 2 born?",
@@ -2724,7 +2703,7 @@
     "incorrect_answers": ["South Africa", "Antarctica", "Australia"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What year was the Disney film \"A Goofy Movie\" released?",
@@ -2739,20 +2718,9 @@
     "correct_answer": ".tv",
     "incorrect_answers": [".tu", ".tt", ".tl"]
   },
+
   {
-    "category": "Politics",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?",
-    "correct_answer": "Chinese Taipei",
-    "incorrect_answers": [
-      "Chinese Taiwan",
-      "Republic of Taiwan",
-      "Republic of Taipei "
-    ]
-  },
-  {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these games includes the phrase \"Do not pass Go, do not collect $200\"?",
@@ -2768,7 +2736,7 @@
     "incorrect_answers": ["C#", "Python", "PHP"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which country does the power metal band \"Sabaton\" originate from?",
@@ -2776,7 +2744,7 @@
     "incorrect_answers": ["Germany", "United States", "Finland"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these is NOT a playable character in \"Left 4 Dead\"?",
@@ -2784,7 +2752,7 @@
     "incorrect_answers": ["Louis", "Zoey", "Bill"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the relationship between the band members of American rock band King of Leon?",
@@ -2796,7 +2764,7 @@
     ]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the anime Noragami who is one of the main protagonists?",
@@ -2812,7 +2780,7 @@
     "incorrect_answers": ["Pearl Harbor", "September 11th", "D-Day"]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"Sonic the Hedgehog\" comic, who was the creator of Roboticizer? ",
@@ -2828,7 +2796,7 @@
     "incorrect_answers": ["Spain", "Sweden", "Netherlands"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?",
@@ -2860,7 +2828,7 @@
     "incorrect_answers": ["Warsaw", "Kiev", "Vilnius"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "\"Gimmick!\" is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?",
@@ -2868,7 +2836,7 @@
     "incorrect_answers": ["VRC7", "VRC6", "MMC5"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What type of cheese, loved by Wallace and Gromit, had it's sale prices rise after their successful short films?",
@@ -2876,7 +2844,7 @@
     "incorrect_answers": ["Cheddar", "Moon Cheese", "Edam"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who is the main protagonist in Danganronpa 2: Goodbye Despair?",
@@ -2884,21 +2852,14 @@
     "incorrect_answers": ["Nagito Komaeda", "Makoto Naegi", "Junko Enoshima"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In \"One Piece\", who is the girl who overcame her enslaved past and became an agent of an army to fight the corrupt government?",
     "correct_answer": "Koala",
     "incorrect_answers": ["Boa Hancock", "Nico Robin", "Emporio Ivankov "]
   },
-  {
-    "category": "Art",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "How many paint and pastel versions of \"The Scream\" is Norwegian painter Edvard Munch believed to have produced?",
-    "correct_answer": "4",
-    "incorrect_answers": ["1", "3", "2"]
-  },
+
   {
     "category": "Geography",
     "type": "multiple",
@@ -2916,7 +2877,7 @@
     "incorrect_answers": ["Green", "Blue", "Pink"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which of these Generation 1 Pokemon did NOT have an evolution in Generation 4?",
@@ -2932,7 +2893,7 @@
     "incorrect_answers": ["Kabocha", "Nasu", "Soba"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What song originally performed by The Bee Gees in 1978 had a cover version by Steps 20 years later?",
@@ -2944,7 +2905,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"PUBATTLEGROUNDS\" what is the name of the Military Base island?",
@@ -2959,16 +2920,9 @@
     "correct_answer": "6",
     "incorrect_answers": ["7", "8", "5"]
   },
+
   {
-    "category": "Entertainment: Musicals & Theatres",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "The World Chess Championship in Chess, Act 1 is set in which Italian city?",
-    "correct_answer": "Merano",
-    "incorrect_answers": ["Venice", "Milan", "Rome"]
-  },
-  {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the name of the adventurer you meet at the mines in Stardew Valley?",
@@ -2984,7 +2938,7 @@
     "incorrect_answers": ["Charles Babbage", "Isaac Newton", "J.J Thomson"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In South Park, what is Stan's surname?",
@@ -2992,7 +2946,7 @@
     "incorrect_answers": ["Stotch", "Broflovski", "Tweak"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the film \"Interstellar\", how long did they spend on Miller's planet?",
@@ -3004,7 +2958,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the game \"The Sims\", how many Simoleons does each family start with?",
@@ -3012,7 +2966,7 @@
     "incorrect_answers": ["10,000", "15,000", "25,000"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In which country's version of Half-Life are the HECU Marines replaced with robots?",
@@ -3035,14 +2989,7 @@
     "correct_answer": "Jupiter",
     "incorrect_answers": ["Uranus", "Neptune", "Mars"]
   },
-  {
-    "category": "Entertainment: Musicals & Theatres",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "In which Shakespeare play does the character Marcellus say, \"Something is rotten in the state of Denmark\"?",
-    "correct_answer": "Hamlet",
-    "incorrect_answers": ["Macbeth", "King Lear", "Twelfth Night"]
-  },
+
   {
     "category": "Science & Nature",
     "type": "multiple",
@@ -3080,7 +3027,7 @@
     "incorrect_answers": ["Robert Catesby", "Francis Tresham", "Everard Digby"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?",
@@ -3088,23 +3035,16 @@
     "incorrect_answers": ["David Hayter", "Norman Reedus", "Hideo Kojima"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What was the name of the planet in \"Aliens\"?",
     "correct_answer": "LV-426",
     "incorrect_answers": ["Weyland Yutani Corporation Base", "FR-838", "DI-621"]
   },
+
   {
-    "category": "Politics",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "The 2014 movie \"The Raid 2: Berandal\" was mainly filmed in which Asian country?",
-    "correct_answer": "Indonesia",
-    "incorrect_answers": ["Thailand", "Brunei", "Malaysia"]
-  },
-  {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
@@ -3112,7 +3052,7 @@
     "incorrect_answers": ["Mercy", "Winston", "Zenyatta"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In \"Highschool of the Dead\", where did Komuro and Saeko establish to meet after the bus explosion?",
@@ -3136,7 +3076,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who plays the Nemesis in the Resident Evil movies?",
@@ -3160,7 +3100,7 @@
     "incorrect_answers": ["Red", "Blue", "Yellow"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which water-type Pokémon starter was introduced in the 4th generation of the series?",
@@ -3168,7 +3108,7 @@
     "incorrect_answers": ["Totodile", "Oshawott", "Mudkip"]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who authored The Adventures of Tintin?",
@@ -3212,7 +3152,7 @@
     "incorrect_answers": ["1984", "1972", "1980"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who plays the character of Po in the Kung Fu Panda movies?",
@@ -3228,7 +3168,7 @@
     "incorrect_answers": ["Pope John Paul II", "Bang-Ding Ow", "Albert Putin"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of the following Copy Abilities was only featured in \"Kirby & The Amazing Mirror\"?",
@@ -3236,7 +3176,7 @@
     "incorrect_answers": ["Magic", "Smash", "Missile"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",
@@ -3244,23 +3184,16 @@
     "incorrect_answers": ["Fast food", "Food stamps", "They weren't paid"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "How many different notes is the tune, \"Song of Healing\", comprised of in \"The Legend of Zelda: Majora's Mask\"?",
     "correct_answer": "3",
     "incorrect_answers": ["4", "1", "6"]
   },
+
   {
-    "category": "Art",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "How many paint and pastel versions of \"The Scream\" is Norwegian painter Edvard Munch believed to have produced?",
-    "correct_answer": "4",
-    "incorrect_answers": ["1", "3", "2"]
-  },
-  {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was the name of Pink Floyd's first studio album?",
@@ -3268,7 +3201,7 @@
     "incorrect_answers": ["Ummagumma", "More", "Atom Heart Mother"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "hard",
     "question": "The \"To Love-Ru\" Manga was started in what year?",
@@ -3276,7 +3209,7 @@
     "incorrect_answers": ["2007", "2004", "2005"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In what year was Pokémon Diamond & Pearl released in Japan?",
@@ -3284,7 +3217,7 @@
     "incorrect_answers": ["2009", "2007", "2008"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "For the film \"Raiders of The Lost Ark\", what was Harrison Ford sick with during the filming of the Cairo chase?",
@@ -3316,7 +3249,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of the following is NOT a Nintendo game console?",
@@ -3324,7 +3257,7 @@
     "incorrect_answers": ["SNES", "Wii", "Switch"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Benny, Brain, Fancy-Fancy, Spook and Choo-Choo were known associates of what Hanna Barbera cartoon character?",
@@ -3340,7 +3273,7 @@
     "incorrect_answers": ["Swimming", "Showjumping", "Gymnastics"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What Nickelodeon game show featured a house on the set that the contestants would ransack to find hidden objects?",
@@ -3356,7 +3289,7 @@
     "incorrect_answers": ["98", "108", "78"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What country did Shirley Bassey originate from?",
@@ -3372,7 +3305,7 @@
     "incorrect_answers": ["20%", "10%", "25%"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "\"The Genius\" is the original and secondary name of which Wu-Tang Clan member?",
@@ -3408,7 +3341,7 @@
     "incorrect_answers": ["Czechoslovakia", "Abkhazia", "South Ossetia"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these is a type of monster found in Minecraft?",
@@ -3440,7 +3373,7 @@
     "incorrect_answers": ["Bosnia and Herzegovina", "Montenegro", "Croatia"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In \"Sonic the Hedgehog 2\" for the Sega Genesis, what do you input in the sound test screen to access the secret level select?",
@@ -3452,7 +3385,7 @@
     ]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What was the first Disney movie to use CGI?",
@@ -3460,7 +3393,7 @@
     "incorrect_answers": ["Tron", "Toy Story", "Fantasia"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the \"Worms\" series of video games, which of these weapons is affected by wind?",
@@ -3532,7 +3465,7 @@
     ]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who is the \"dumb blonde\" character in Nickelodeon's \"The Loud House\"?",
@@ -3540,7 +3473,7 @@
     "incorrect_answers": ["Luan", "Luna", "Lincoln"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What ingredients are required to make a cake in Minecraft?",
@@ -3559,20 +3492,9 @@
     "correct_answer": "Spain",
     "incorrect_answers": ["France", "England", "Portugal"]
   },
+
   {
-    "category": "Entertainment: Musicals & Theatres",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "What play is the quote \"Hell is other people\" from?",
-    "correct_answer": "No Exit",
-    "incorrect_answers": [
-      "The Devil and the Good Lord",
-      "The Condemned of Altona",
-      "The Flies"
-    ]
-  },
-  {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of the following superheros did Wonder Woman NOT have a love interest in?",
@@ -3592,7 +3514,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In Xenoblade Chronicles X, which class has a sniper rifle as it's primary weapon?",
@@ -3632,7 +3554,7 @@
     "incorrect_answers": ["4", "7", "2"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "\"The Singing Cowboy\" Gene Autry is credited with the first recording for all but which classic Christmas jingle?",
@@ -3644,7 +3566,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"The Binding of Isaac\", what is the name of the final boss that you fight in The Void?",
@@ -3652,7 +3574,7 @@
     "incorrect_answers": ["Mega Satan", "Hush", "The Lamb"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who created \"RWBY\"?",
@@ -3676,7 +3598,7 @@
     "incorrect_answers": ["Ferrari", "Pagani", "Bugatti"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who voices the character \"Vernon Cherry\" in \"Red Dead Redemption\"?",
@@ -3684,7 +3606,7 @@
     "incorrect_answers": ["Tara Strong", "Troy Baker", "Rob Wiethoff"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In \"Call Of Duty: Zombies\", what is the name of the Pack-A-Punched Crossbow?",
@@ -3692,7 +3614,7 @@
     "incorrect_answers": ["Longinus", "V-R11", "Predator"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was the name of Pink Floyd's first studio album?",
@@ -3700,7 +3622,7 @@
     "incorrect_answers": ["Ummagumma", "More", "Atom Heart Mother"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the TV show \"Mad Men\", what was Donald Draper's birthname?",
@@ -3732,7 +3654,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In which year was the Megadeth album \"Peace Sells... but Who's Buying?\" released?",
@@ -3752,7 +3674,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What are Sans and Papyrus named after in \"Undertale\"?",
@@ -3760,7 +3682,7 @@
     "incorrect_answers": ["Plants", "Companies", "Ancient writing paper"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the frontman's name of the metal band Megadeth?",
@@ -3768,7 +3690,7 @@
     "incorrect_answers": ["Rob Halford", "Vince Neil", "James Hetfield"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Where was Nicki Minaj born?",
@@ -3820,7 +3742,7 @@
     "incorrect_answers": ["Ten", "Seven", "Eight"]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
@@ -3840,7 +3762,7 @@
     ]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Who wrote the novel \"Moby-Dick\"?",
@@ -3876,7 +3798,7 @@
     "incorrect_answers": ["3.14169", "3.12423", "3.25812"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who is the protagonist in the game \"The Walking Dead: Season One\"?",
@@ -3892,7 +3814,7 @@
     "incorrect_answers": ["Papua New Guinea", "Ethiopia", "China"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "The city of Rockport is featured in which of the following video games?",
@@ -3912,7 +3834,7 @@
     "incorrect_answers": ["Hulaulá", "Lishan Didan", "Chaldean Neo-Aramaic"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which one of these artists appears in the album Deltron 3030?",
@@ -3920,7 +3842,7 @@
     "incorrect_answers": ["Lamarr Kendrick", "Danger Mouse", "CeeLo Green"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In which city did American rap producer DJ Khaled originate from?",
@@ -3940,7 +3862,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "When was the first \"Half-Life\" released?",
@@ -3968,21 +3890,14 @@
     ]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "easy",
     "question": "How many Harry Potter books are there?",
     "correct_answer": "7",
     "incorrect_answers": ["8", "5", "6"]
   },
-  {
-    "category": "Art",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What year was the Mona Lisa finished?",
-    "correct_answer": "1504",
-    "incorrect_answers": ["1487", "1523", "1511"]
-  },
+
   {
     "category": "General Knowledge",
     "type": "multiple",
@@ -4004,7 +3919,7 @@
     "incorrect_answers": ["Ayrton Senna", "Fernando Alonso", "Jim Clark"]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these games includes the phrase \"Do not pass Go, do not collect $200\"?",
@@ -4012,7 +3927,7 @@
     "incorrect_answers": ["Pay Day", "Cluedo", "Coppit"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Left 4 Dead, what is the name of the Special Infected that is unplayable in Versus mode?",
@@ -4020,7 +3935,7 @@
     "incorrect_answers": ["The Tank", "The Smoker", "The Spitter"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which game was the first time Mario was voiced by Charles Martinet?",
@@ -4028,27 +3943,16 @@
     "incorrect_answers": ["Super Mario 64", "Mario Tennis", "Dr. Mario 64"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which company made the Japanese RPG \"Dragon Quest\"?",
     "correct_answer": "Square Enix",
     "incorrect_answers": ["Capcom", "Konami", "Blizzard"]
   },
+
   {
-    "category": "Entertainment: Musicals & Theatres",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In Shakespeare's play Julius Caesar, Caesar's last words were...",
-    "correct_answer": "Et tu, Brute? ",
-    "incorrect_answers": [
-      "Iacta alea est!",
-      "Vidi, vini, vici.",
-      "Aegri somnia vana."
-    ]
-  },
-  {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "The creator of the Touhou Project series is:",
@@ -4064,7 +3968,7 @@
     "incorrect_answers": ["Aphrodite", "Artemis", "Athena"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What ingredients are required to make a cake in Minecraft?",
@@ -4092,7 +3996,7 @@
     "incorrect_answers": ["Loki", "Tyr", "Snotra"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is Meg's full name in \"Family Guy\"?",
@@ -4100,23 +4004,16 @@
     "incorrect_answers": ["Who-Cares Griffin", "Neil Griffin", "Megan Griffin"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the name of the creature that the main character befriends in \"The Last Guardian\"?",
     "correct_answer": "Trico",
     "incorrect_answers": ["Nico", "Wolf", "Andazi"]
   },
+
   {
-    "category": "Politics",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who was elected leader of the UK Labour Party in September 2015?",
-    "correct_answer": "Jeremy Corbyn",
-    "incorrect_answers": ["Ed Miliband", "David Cameron", "Theresa May"]
-  },
-  {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Pete Townshend collaborated with which famous guitarist for an event at Brixton Academy in 1985?",
@@ -4136,7 +4033,7 @@
     ]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In \"Jewelpet Sunshine\", what is the song that plays when Kanon and her friends bust out of prison?",
@@ -4144,7 +4041,7 @@
     "incorrect_answers": ["Eye Of The Tiger", "Born to be Wild", "Ruby Ring"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "The Khajiit are a race of cat-like creatures from which epic series of role-playing games, set across the land of Tamriel?",
@@ -4156,7 +4053,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Mulan (1998), who is the leader of the Huns?",
@@ -4164,7 +4061,7 @@
     "incorrect_answers": ["Chien-Po", "Li Shang", "Fa Zhou"]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the full first name of the babysitter in Calvin and Hobbes?",
@@ -4196,7 +4093,7 @@
     "incorrect_answers": ["1836", "1845", "1844"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which company did Gabe Newell work at before founding Valve Corporation?",
@@ -4212,7 +4109,7 @@
     "incorrect_answers": ["Jupiter", "Juno", "Ares"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which of these TrackMania environments was NOT in the original game?",
@@ -4220,7 +4117,7 @@
     "incorrect_answers": ["Desert", "Snow", "Rally"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which Greek letter represents the \"Half-Life\" logo?",
@@ -4236,7 +4133,7 @@
     "incorrect_answers": ["World War I", "World War II", "Revolutionary War"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "According to their 1974 hit, what were Brownsville Station doing \"In The Boys' Room\"?",
@@ -4276,7 +4173,7 @@
     "incorrect_answers": ["Dorians", "Achaeans", "Ionians"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the original \"Super Mario Bros.\", what is the acceleration of Mario if he was in free fall?",
@@ -4292,7 +4189,7 @@
     "incorrect_answers": ["Malaysia", "Vietnam", "Philippines"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What is the fastest speed possible in Trackmania²: Stadium?",
@@ -4320,7 +4217,7 @@
     "incorrect_answers": ["Lubrication", "Cooling", "Reduce corrosion"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these is NOT a playable character race in the video game \"Starbound\"?",
@@ -4336,7 +4233,7 @@
     "incorrect_answers": ["Republican Spain", "Popular Front", "Papal State"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which Pokemon generation did the fan-named \"Masuda Method\" first appear in? ",
@@ -4344,7 +4241,7 @@
     "incorrect_answers": ["Ruby/Sapphire", "Black/White", "X/Y"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In what year was Hearthstone released?",
@@ -4352,7 +4249,7 @@
     "incorrect_answers": ["2011", "2013", "2012"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In what year was the movie \"Police Academy\" released?",
@@ -4360,7 +4257,7 @@
     "incorrect_answers": ["1986", "1985", "1983"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "When did The Beatles release the LP \"Please Please Me\"?",
@@ -4368,7 +4265,7 @@
     "incorrect_answers": ["1970", "1960", "1969"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who was featured in the song \"Words\" by Feint? ",
@@ -4376,7 +4273,7 @@
     "incorrect_answers": ["Anna Yvette ", "Danyka Nadeau", "Veela"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In \"Halo\", what is the name of the planet which Installation 04 orbits?",
@@ -4391,16 +4288,9 @@
     "correct_answer": "Matra Djet",
     "incorrect_answers": ["Porsche 911", "Alpine A110", "AC Cobra"]
   },
+
   {
-    "category": "Science: Gadgets",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "When was the DVD invented?",
-    "correct_answer": "1995",
-    "incorrect_answers": ["2000", "1990", "1980"]
-  },
-  {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "When was Club Penguin launched?",
@@ -4412,7 +4302,7 @@
     ]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who voices \"Shou Suzuki\" in the English dub of \"Mob Psycho 100\"?",
@@ -4420,7 +4310,7 @@
     "incorrect_answers": ["Ben Diskin", "Chris Niosi", "David Naughton"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the \"To Love-Ru\" series, how many Trans-weapons were created?",
@@ -4428,7 +4318,7 @@
     "incorrect_answers": ["1", "2", "4"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who is the armored titan in \"Attack On Titan\"?",
@@ -4436,7 +4326,7 @@
     "incorrect_answers": ["Armin Arlelt", "Mikasa Ackermann", "Eren Jaeger"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In what year does Jurassic World open in the \"Jurassic Park\" universe?",
@@ -4452,7 +4342,7 @@
     "incorrect_answers": ["Finland", "Sweden", "Poland"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who was the first ever actor to play \"The Doctor\" on \"Doctor Who\"?",
@@ -4460,7 +4350,7 @@
     "incorrect_answers": ["David Tennant", "Peter Capaldi", "Tom Baker"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which Crypt of the NecroDancer (2015) character has a soundtrack by Jake \"Virt\" Kaufman?",
@@ -4468,7 +4358,7 @@
     "incorrect_answers": ["Cadence", "Nocturna", "Octavian (Bard)"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which town is the setting for the Disney movie The Love Bug (1968)?",
@@ -4476,7 +4366,7 @@
     "incorrect_answers": ["Los Angeles", "Sacramento", "San Jose"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Pamina and Papageno are characters in what Mozart opera?",
@@ -4508,7 +4398,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the name of the adventurer you meet at the mines in Stardew Valley?",
@@ -4516,7 +4406,7 @@
     "incorrect_answers": ["Marnie", "Morris", "Marvin"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of the following is not the name of a \"Bond Girl\"? ",
@@ -4576,7 +4466,7 @@
     "incorrect_answers": ["Dolphin", "Whale", "Octopus"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these is NOT a main playable character in \"Grand Theft Auto V\"?",
@@ -4616,7 +4506,7 @@
     "incorrect_answers": ["Germany", "United States", "Saudi Arabia"]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who is the main character in the VHS tape included in the board game Nightmare?",
@@ -4624,7 +4514,7 @@
     "incorrect_answers": ["The Kryptkeeper", "The Monster", "The Nightmare"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these Counter-Strike maps is a bomb defuse scenario?",
@@ -4640,7 +4530,7 @@
     "incorrect_answers": ["Honda", "Kawasaki", "Yamaha"]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What special item did the creators of Cards Against Humanity ship for their Black Friday pack?",
@@ -4656,7 +4546,7 @@
     "incorrect_answers": ["The wake", "The backwash", "The ablative"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Cook, Serve, Delicious!, which food is NOT included in the game?",
@@ -4688,7 +4578,7 @@
     ]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "easy",
     "question": "This Marvel superhero is often called \"The man without fear\".",
@@ -4696,7 +4586,7 @@
     "incorrect_answers": ["Thor", "Wolverine", "Hulk"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which car did not appear in the 2002 Lego Game: Drome Racers?",
@@ -4704,7 +4594,7 @@
     "incorrect_answers": ["Raptor", "Hornet", "Behemoth"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which animation studio animated the 2016 anime \"Mob Psycho 100\"?",
@@ -4712,7 +4602,7 @@
     "incorrect_answers": ["A-1 Pictures", "Shaft", "Madhouse"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which survivor in Left 4 Dead sacrificed themself to save the other survivors?",
@@ -4720,7 +4610,7 @@
     "incorrect_answers": ["Louis", "Francis", "Zoey"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which Disney character sings the song \"A Dream is a Wish Your Heart Makes\"?",
@@ -4748,7 +4638,7 @@
     ]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"The Amazing World of Gumball\", who is the principal of Elmore Junior High?",
@@ -4760,7 +4650,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Who wrote the song \"You Know You Like It\"?",
@@ -4768,7 +4658,7 @@
     "incorrect_answers": ["DJ Snake", "Steve Aoki", "Major Lazer"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "How many voice channels does the Super Nintendo Entertainment System support?",
@@ -4776,7 +4666,7 @@
     "incorrect_answers": ["6", "10", "12"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which one of these characters is from \"Legendz : Tale of the Dragon Kings\"?",
@@ -4792,7 +4682,7 @@
     "incorrect_answers": ["1905", "1919", "1925"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In \"Call Of Duty: Zombies\", what is the name of the machine that upgrades weapons?",
@@ -4800,7 +4690,7 @@
     "incorrect_answers": ["Wunderfizz", "Gersch Device", "Mule Kick"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is Dipper's real name from \"Gravity Falls\"?",
@@ -4808,7 +4698,7 @@
     "incorrect_answers": ["Mable Pines", "Jason Pines", "Mark Pines"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In Margaret Atwood's \"The Handmaid's Tale\", what is Offred's real name is implied to be?",
@@ -4816,7 +4706,7 @@
     "incorrect_answers": ["August", "April", "May"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which album by American rapper Kanye West contained songs such as \"Love Lockdown\", \"Paranoid\" and \"Heartless\"?",
@@ -4828,7 +4718,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these Movies was NOT released in 1996?",
@@ -4852,7 +4742,7 @@
     "incorrect_answers": ["David Seamen", "Ashley Cole", "Mark Hughes"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In \"Yo! Noid 2,\" The Noid can perform what special move?",
@@ -4860,7 +4750,7 @@
     "incorrect_answers": ["Pizza Throw", "Dodge Roll", "Spin Dash"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which musical artist had a prominent role in the 2017 film \"Kingsman: The Golden Circle\"?",
@@ -4868,7 +4758,7 @@
     "incorrect_answers": ["Lady Gaga", "Rihanna", "Justin Bieber"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What French artist/band is known for playing on the midi instrument \"Launchpad\"?",
@@ -4892,7 +4782,7 @@
     "incorrect_answers": ["Bull", "Horse", "Dog"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What is the name of your team in Star Wars: Republic Commando?",
@@ -4900,7 +4790,7 @@
     "incorrect_answers": ["The Commandos", "Bravo Six", "Vader's Fist"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?",
@@ -4908,7 +4798,7 @@
     "incorrect_answers": ["Dreamgirls", "Cabaret", "All That Jazz"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Typically, how many keys are on a piano?",
@@ -4932,7 +4822,7 @@
     "incorrect_answers": ["Galician", "Maltese", "Hungarian"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who is the main character of \"Metal Gear Solid 3\"?",
@@ -4948,7 +4838,7 @@
     "incorrect_answers": ["Eating", "Bright lights", "Transportation"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which band is the longest active band in the world with no breaks or line-up changes?",
@@ -4964,7 +4854,7 @@
     "incorrect_answers": ["Bonnet", " Écharpe", " Casque"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In Portal 2, how did CEO of Aperture Science, Cave Johnson, presumably die?",
@@ -5012,7 +4902,7 @@
     "incorrect_answers": ["3 Weeks", "1 Week", "2 Months"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Mirror's Edge Catalyst takes place in the City of...?",
@@ -5020,7 +4910,7 @@
     "incorrect_answers": ["Mirrors", "Purity", "Diamonds"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these is NOT the name of a team leader in Pokémon GO?",
@@ -5028,7 +4918,7 @@
     "incorrect_answers": ["Blanche", "Spark", "Candela"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the anime Noragami who is one of the main protagonists?",
@@ -5044,7 +4934,7 @@
     "incorrect_answers": ["Tungsten", "Platinum", "Osmium"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "\"All the Boys\" by Panic! At the Disco was released as a bonus track on what album?",
@@ -5056,7 +4946,7 @@
     ]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What do you declare in Rīchi Mahjong when you've drawn your winning tile?",
@@ -5064,7 +4954,7 @@
     "incorrect_answers": ["Ron", "Rīchi", "Kan"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In what year was the game \"FTL: Faster Than Light\" released?",
@@ -5080,7 +4970,7 @@
     "incorrect_answers": ["32", "-39", "-42"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What was Daft Punk's first studio album?",
@@ -5092,7 +4982,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What type of cheese, loved by Wallace and Gromit, had it's sale prices rise after their successful short films?",
@@ -5100,7 +4990,7 @@
     "incorrect_answers": ["Cheddar", "Moon Cheese", "Edam"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is Everest's favorite food in the Nickelodeon/Nick Jr. series \"PAW Patrol\"?",
@@ -5132,7 +5022,7 @@
     "incorrect_answers": ["Bone", "Liver", "Stomach"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these is not a wonder weapon in \"Call Of Duty: Zombies\"?",
@@ -5140,7 +5030,7 @@
     "incorrect_answers": ["GKZ-45 Mk3", "Ray Gun", "Scavenger"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In \"Magicka\", which two elements are combined to cast the spell, \"Nullify\"?",
@@ -5172,7 +5062,7 @@
     "incorrect_answers": ["January 28", "June 28", "April 28"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In which game did the character \"Mario\" make his first appearance?",
@@ -5184,7 +5074,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "\"Exile\" and \"Revelations\" were the third and fourth installments of which PC game series?",
@@ -5200,7 +5090,7 @@
     "incorrect_answers": ["1859", "1860", "1850"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which group performs the song \"Crash into Me\"?",
@@ -5208,7 +5098,7 @@
     "incorrect_answers": ["Phish", "The Grateful Dead", "Destiny's Child"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the opening track on Lorde's Pure Heroine?",
@@ -5216,7 +5106,7 @@
     "incorrect_answers": ["Team", "Royals", "400 Lux"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who created the digital distribution platform Steam?",
@@ -5224,7 +5114,7 @@
     "incorrect_answers": ["Pixeltail Games", "Ubisoft", "Electronic Arts"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "League of Legends, DOTA 2, Smite and Heroes of the Storm are all part of which game genre?",
@@ -5252,23 +5142,16 @@
     "incorrect_answers": ["Royal Oak", "White Hart", "King's Head"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which franchise does the creature \"Slowpoke\" originate from?",
     "correct_answer": "Pokemon",
     "incorrect_answers": ["Dragon Ball", "Sonic The Hedgehog", "Yugioh"]
   },
+
   {
-    "category": "Art",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which artist’s studio was known as 'The Factory'?",
-    "correct_answer": "Andy Warhol",
-    "incorrect_answers": ["Roy Lichtenstein", "David Hockney", "Peter Blake"]
-  },
-  {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "The map featured in Arma 3 named \"Altis\" is based off of what Greek island?",
@@ -5276,7 +5159,7 @@
     "incorrect_answers": ["Ithaca", "Naxos", "Anafi"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In \"Undertale\", how many main endings are there?",
@@ -5284,7 +5167,7 @@
     "incorrect_answers": ["2", "5", "13"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which song is not by TheFatRat?",
@@ -5292,7 +5175,7 @@
     "incorrect_answers": ["Monody", "Windfall", "Infinite Power!"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Excluding their instructor, how many members of Class VII are there in the game \"Legend of Heroes: Trails of Cold Steel\"?",
@@ -5300,7 +5183,7 @@
     "incorrect_answers": ["6", "10", "3"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In \"Sonic the Hedgehog 2\" for the Sega Genesis, what do you input in the sound test screen to access the secret level select?",
@@ -5324,7 +5207,7 @@
     ]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who voices for Ruby in the animated series RWBY?",
@@ -5332,7 +5215,7 @@
     "incorrect_answers": ["Tara Strong", "Jessica Nigri", "Hayden Panettiere"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which of the following films was Don Bluth both the writer, director, and producer for?",
@@ -5340,7 +5223,7 @@
     "incorrect_answers": ["Titan A.E.", "Anastasia", "The Land Before Time"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was the name of Ross' pet monkey on \"Friends\"?",
@@ -5348,7 +5231,7 @@
     "incorrect_answers": ["Jojo", "George", "Champ"]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these games includes the phrase \"Do not pass Go, do not collect $200\"?",
@@ -5364,7 +5247,7 @@
     "incorrect_answers": ["Buick", "Cadillac", "Chevrolet"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the game Destiny, who succeeded Peter Dinklage in voicing the protagonist's \"Ghost\"?",
@@ -5372,7 +5255,7 @@
     "incorrect_answers": ["John DiMaggio", "Mark Hamill", " Troy Baker"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?",
@@ -5383,14 +5266,7 @@
       "The Velvet Underground & Nico"
     ]
   },
-  {
-    "category": "Entertainment: Musicals & Theatres",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "How many plays is Shakespeare generally considered to have written?",
-    "correct_answer": "37",
-    "incorrect_answers": ["18", "54", "25"]
-  },
+
   {
     "category": "Science & Nature",
     "type": "multiple",
@@ -5400,7 +5276,7 @@
     "incorrect_answers": ["Neutron", "Proton", "Photon"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the video game \"Team Fortress 2\", which class is able to double jump?",
@@ -5408,7 +5284,7 @@
     "incorrect_answers": ["Spy", "Engineer", "Pyro"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the television show \"Lazy Town\", who is the actor of Robbie Rotten?",
@@ -5416,7 +5292,7 @@
     "incorrect_answers": ["Adam Sandler", "Magnús Scheving", "Stephen Carl"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"Star Trek\", what is the Klingon death ritual?",
@@ -5428,7 +5304,7 @@
     ]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In 2008, British celebrity chef Gordon Ramsay believes he almost died after suffering what accident in Iceland while filming?",
@@ -5440,7 +5316,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In \"Team Fortress 2\", what is the fastest taunt kill that can be pulled off?",
@@ -5464,7 +5340,7 @@
     "incorrect_answers": ["8", "9", "10"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Grand Theft Auto: V, what wanted level does the player receive if they enter Zancudo Army Base north of Los Santos?",
@@ -5472,7 +5348,7 @@
     "incorrect_answers": ["3", "5", "1"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the name of the City in Saints Row The Third?",
@@ -5480,7 +5356,7 @@
     "incorrect_answers": ["Stilwater", "Carcer", "Liberty"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which car is NOT featured in \"Need for Speed: Hot Pursuit 2\"?",
@@ -5488,7 +5364,7 @@
     "incorrect_answers": ["Ford Crown Victoria", "BMW Z8", "McLaren F1"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which punk rock band released hit songs such as \"Californication\", \"Can't Stop\" and \"Under the Bridge\"?",
@@ -5512,7 +5388,7 @@
     "incorrect_answers": ["Sir Bobby Charlton", "Ryan Giggs", "David Beckham"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What is the name of the alligator in Where's My Water?",
@@ -5528,7 +5404,7 @@
     "incorrect_answers": ["3.14", "1.62", "1.41"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which character is from \"Splatoon\"?",
@@ -5555,18 +5431,7 @@
       "The Charge of the Light Brigade (Crimean War)"
     ]
   },
-  {
-    "category": "Politics",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who was the only president to not be in office in Washington D.C?",
-    "correct_answer": "George Washington",
-    "incorrect_answers": [
-      "Abraham Lincoln",
-      "Richard Nixon",
-      "Thomas Jefferson"
-    ]
-  },
+
   {
     "category": "History",
     "type": "multiple",
@@ -5580,7 +5445,7 @@
     ]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "When did the last episode of \"Futurama\" air?",
@@ -5600,7 +5465,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In which city did American rap producer DJ Khaled originate from?",
@@ -5620,7 +5485,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these is NOT the name of an album released by Miami-based producer DJ Khaled?",
@@ -5631,14 +5496,7 @@
       "I Changed A Lot"
     ]
   },
-  {
-    "category": "Art",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Who painted \"Swans Reflecting Elephants\", \"Sleep\", and \"The Persistence of Memory\"?",
-    "correct_answer": "Salvador Dali",
-    "incorrect_answers": ["Jackson Pollock", "Vincent van Gogh", "Edgar Degas"]
-  },
+
   {
     "category": "General Knowledge",
     "type": "multiple",
@@ -5656,7 +5514,7 @@
     "incorrect_answers": ["Yellow", "Blue", "Green"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which Death Grips album is the only one to feature a band member?",
@@ -5712,7 +5570,7 @@
     "incorrect_answers": ["Shellshock", "Corrupted Blood", "Shellscript"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which famous 90's rap album is commonly referred to as \"The Bible of Hip Hop\"?",
@@ -5724,23 +5582,16 @@
     ]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"Sonic the Hedgehog\" comic, who was the creator of Roboticizer? ",
     "correct_answer": "Professor Charles the Hedgehog",
     "incorrect_answers": ["Julian Robotnik", "Ivo Robotnik", "Snively Robotnik"]
   },
+
   {
-    "category": "Entertainment: Musicals & Theatres",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "How many plays is Shakespeare generally considered to have written?",
-    "correct_answer": "37",
-    "incorrect_answers": ["18", "54", "25"]
-  },
-  {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is Brian May's guitar called?",
@@ -5748,7 +5599,7 @@
     "incorrect_answers": ["Blue Special", "Green Special", "Yellow Special"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the Half-Life franchise, what is the real name of the \"gravity gun\"?",
@@ -5760,7 +5611,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the game Danganronpa: Happy Trigger Havoc, the character Aoi Asahina's ultimate ability is what?",
@@ -5780,7 +5631,7 @@
     "incorrect_answers": ["Andorra", "France", "Luxembourg"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
@@ -5791,14 +5642,7 @@
       "January 25, 2015"
     ]
   },
-  {
-    "category": "Politics",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "According to the United States Constitution, how old must a person be to be elected President of the United States?",
-    "correct_answer": "35",
-    "incorrect_answers": ["30", "40", "45"]
-  },
+
   {
     "category": "Animals",
     "type": "multiple",
@@ -5808,7 +5652,7 @@
     "incorrect_answers": ["Fish", "Reptiles", "Mammals"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
@@ -5816,7 +5660,7 @@
     "incorrect_answers": ["Atrayu", "Atraiyu", "Atraeyu"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which British writer wrote for both Doctor Who and Sherlock?",
@@ -5824,7 +5668,7 @@
     "incorrect_answers": ["Phil Ford", "Russell T Davies", "Toby Whithouse"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the \"Call Of Duty: Zombies\" map \"Origins\", where is \"Stamin-Up\" located?",
@@ -5832,7 +5676,7 @@
     "incorrect_answers": ["Generator 3", "Generator 4", "Excavation Site"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Pete Townshend collaborated with which famous guitarist for an event at Brixton Academy in 1985?",
@@ -5852,7 +5696,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"Jurassic World\", which company purchases InGen and creates Jurassic World?",
@@ -5864,7 +5708,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was the original release date of Grand Theft Auto V?",
@@ -5884,7 +5728,7 @@
     "incorrect_answers": ["Hawaii", "Europe", "Asia"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the last name of the primary female protagonist of Final Fantasy VIII?",
@@ -5892,7 +5736,7 @@
     "incorrect_answers": ["Loire", "Almasy", "Trepe"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What are Sans and Papyrus named after in \"Undertale\"?",
@@ -5924,7 +5768,7 @@
     "incorrect_answers": ["Weave", "Guitar", "Boat"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "A Caixa Malacacheta is what kind of musical instrument which is commonly used in Latin American music?",
@@ -5932,7 +5776,7 @@
     "incorrect_answers": ["Cow Bell", "Bass Drum", "Maraca"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Touhou 12: Undefined Fantastic Object, which of these was not a playable character?",
@@ -5940,7 +5784,7 @@
     "incorrect_answers": ["Hakurei Reimu", "Kirisame Marisa", "Kochiya Sanae"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "When was the original Star Wars: Battlefront II released?",
@@ -5952,7 +5796,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the name of Team Fortress 2's Heavy Weapons Guy's minigun?",
@@ -5960,7 +5804,7 @@
     "incorrect_answers": ["Betty", "Anna", "Diana"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What was the name of the hero in the 80s animated video game 'Dragon's Lair'?",
@@ -5968,7 +5812,7 @@
     "incorrect_answers": ["Arthur", "Sir Toby Belch", "Guy of Gisbourne"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which of these songs was released in 1996?",
@@ -5980,7 +5824,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "How many studio albums have the duo Daft Punk released?",
@@ -5988,7 +5832,7 @@
     "incorrect_answers": ["1", "5", "2"]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who is the creator of the comic series \"The Walking Dead\"?",
@@ -6000,7 +5844,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who is the lead singer of the band Coldplay?",
@@ -6008,7 +5852,7 @@
     "incorrect_answers": ["Chris Isaak", "Chris Wallace", "Chris Connelly"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Butters Stotch, Pip Pirrup, and Wendy Testaburger are all characters in which long running animated TV series?",
@@ -6016,7 +5860,7 @@
     "incorrect_answers": ["The Simpsons", "Family Guy", "Bob's Burgers"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Abel Magwitch is a character from which Charles Dickens novel?",
@@ -6060,7 +5904,7 @@
     "incorrect_answers": ["203", "209", "200"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the anime, \"Super Sonico\", what is Super Sonico's favorite food?",
@@ -6068,7 +5912,7 @@
     "incorrect_answers": ["Ice Cream", "Pizza", "Chips"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these characters is the mascot of the video game company SEGA?",
@@ -6076,7 +5920,7 @@
     "incorrect_answers": ["Dynamite Headdy", "Alex Kidd", "Opa-Opa"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Johnny Cash did a cover of this song written by lead singer of Nine Inch Nails, Trent Reznor.",
@@ -6104,7 +5948,7 @@
     ]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In Game of Thrones, what is Littlefinger's real name?",
@@ -6116,7 +5960,7 @@
     ]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which episode from The Amazing World Of Gumball won the Childrens Choice Award at the British Animation Awards in 2016?",
@@ -6124,7 +5968,7 @@
     "incorrect_answers": ["The Limit", "The Kids", "The Gripes"]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who wrote the Batman comic series \"The Killing Joke\"?",
@@ -6140,7 +5984,7 @@
     "incorrect_answers": ["Cow", "Horse", "Eagle"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "When was Nintendo's Virtual Boy released?",
@@ -6148,7 +5992,7 @@
     "incorrect_answers": ["1989", "1997", "1992"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What block in Minecraft has the highest blast resistance?",
@@ -6156,7 +6000,7 @@
     "incorrect_answers": ["Obsidian", "Bedrock", "Block of Diamond"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who voiced Metalbeard in \"The Lego Movie\"?",
@@ -6164,7 +6008,7 @@
     "incorrect_answers": ["Liam Neeson", "Morgan Freeman", "Will Arnet"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the 2012 film, \"The Lorax\", who is the antagonist?",
@@ -6172,7 +6016,7 @@
     "incorrect_answers": ["Ted Wiggins", "The Once-Ler", "Grammy Norma"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "How many voice channels does the Super Nintendo Entertainment System support?",
@@ -6180,7 +6024,7 @@
     "incorrect_answers": ["6", "10", "12"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which one of these cartoon characters is NOT voiced by Rob Paulsen?",
@@ -6192,7 +6036,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these is NOT a song by Pegboard Nerds?",
@@ -6224,7 +6068,7 @@
     "incorrect_answers": ["1914 - 1918", "1914 - 1915", "1915 - 1918"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the game Pokémon Conquest, how many kingdoms make up the region of Ransei?",
@@ -6232,7 +6076,7 @@
     "incorrect_answers": ["18", "15", "16"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"One Piece\", which one of the following is NOT an Ancient Weapon?",
@@ -6240,7 +6084,7 @@
     "incorrect_answers": ["Uranus", "Poseidon", "Pluton"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the \"Halo\" series, what is the name of the race of aliens humans refer to as \"Grunts\"?",
@@ -6248,7 +6092,7 @@
     "incorrect_answers": ["Huragok", "Sangheili", "Yanme'e"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "How much did the indie game \"Cave Story\" cost when it was first released in 2004?",
@@ -6268,7 +6112,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was David Bowie's real surname?",
@@ -6276,7 +6120,7 @@
     "incorrect_answers": ["Johnson", "Edwards", "Carter"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What is the 4th boss in the 1997 video game \"Crash Bandicoot 2: Cortex Strikes Back\"?",
@@ -6284,7 +6128,7 @@
     "incorrect_answers": ["Dr. Neo Cortex", "Komodo Brothers", "Tiny Tiger"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the only Generation III Pokemon whose name begins with the letter I?",
@@ -6292,7 +6136,7 @@
     "incorrect_answers": ["Infernape", "Ivysaur", "Igglybuff"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which Iron Maiden album did the song \"Dream of Mirrors\" feature in?",
@@ -6304,7 +6148,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which 90's comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?",
@@ -6324,7 +6168,7 @@
     "incorrect_answers": ["M4 Sherman", " Panzer IV", "Cromwell "]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Carcassonne is based on which French town?",
@@ -6332,7 +6176,7 @@
     "incorrect_answers": ["Paris", "Marseille", "Clermont-Ferrand"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "When Halo 3: ODST was unveiled in 2008, it had a different title. What was the game formally called?",
@@ -6344,7 +6188,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who played Deputy Marshal Samuel Gerard in the 1993 film \"The Fugitive\"?",
@@ -6352,7 +6196,7 @@
     "incorrect_answers": ["Harrison Ford", "Harvey Keitel", "Martin Landau"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What engine did the original \"Half-Life\" run on?",
@@ -6368,7 +6212,7 @@
     "incorrect_answers": ["100", "1000", "50"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who is the Pink Floyd song \"Shine On You Crazy Diamond\" written about?",
@@ -6384,7 +6228,7 @@
     "incorrect_answers": ["San Juan", "Port-au-Prince", "Bridgetown"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these levels does NOT appear in the console/PC versions of the game \"Sonic Generations\"?",
@@ -6392,7 +6236,7 @@
     "incorrect_answers": ["City Escape", "Planet Wisp", "Sky Sanctuary"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the \"Harry Potter\" series, what is Headmaster Dumbledore's full name?",
@@ -6424,7 +6268,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What was the first James Bond film?",
@@ -6432,7 +6276,7 @@
     "incorrect_answers": ["Goldfinger", "From Russia With Love", "Thunderball"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What was the name of singer Frank Ocean's second studio album, which was released on August 20, 2016?",
@@ -6440,7 +6284,7 @@
     "incorrect_answers": ["Brunette", "Black", "Burgundy"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the Pixar film, \"Toy Story\" what was the name of the child who owned the toys?",
@@ -6456,7 +6300,7 @@
     "incorrect_answers": ["HSBC", "Standard Chartered", "Bank of China"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?",
@@ -6472,15 +6316,7 @@
     "incorrect_answers": ["Lake Tanganyika", "Lake Malawi", "Lake Turkana"]
   },
   {
-    "category": "Science: Gadgets",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which buzzword did Apple Inc. use to describe their removal of the headphone jack?",
-    "correct_answer": "Courage",
-    "incorrect_answers": ["Innovation", "Revolution", "Bravery"]
-  },
-  {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the movie \"Scream\" who is Ghost Face?",
@@ -6492,7 +6328,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the original DOOM games, which of the following demons is a recolor of the Baron of Hell, but is weaker than the Baron?",
@@ -6500,7 +6336,7 @@
     "incorrect_answers": ["Mancubus", "Pinky", "Arch-Vile"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the first Left 4 Dead, you can play as either of these four characters.",
@@ -6532,7 +6368,7 @@
     ]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the name of the main character in \"The Flash\" TV series?",
@@ -6548,7 +6384,7 @@
     "incorrect_answers": ["Bulldogs", "Boxers", "Chihuahua"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which British writer wrote for both Doctor Who and Sherlock?",
@@ -6556,7 +6392,7 @@
     "incorrect_answers": ["Phil Ford", "Russell T Davies", "Toby Whithouse"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which team won the \"Tom Clancy's Rainbow Six Siege\" Invitational Event February 2017 in the PC Category?",
@@ -6572,7 +6408,7 @@
     "incorrect_answers": ["100m", "100yd", "109.36yd"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In \"Overwatch\", which hero is able to wallride?",
@@ -6580,7 +6416,7 @@
     "incorrect_answers": ["Reinhardt", "Sombra", "Mercy"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"To Love-Ru\", who is the first to hear of Yami's past from her?",
@@ -6604,7 +6440,7 @@
     "incorrect_answers": ["Axles", "Gears", "Belts"]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"Magic: The Gathering\", what instant card has the highest converted mana cost?",
@@ -6616,7 +6452,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "The walls of the Goldenrod City Gym in \"Pokémon Gold and Silver\" are arranged in the shape of which Pokémon?",
@@ -6640,7 +6476,7 @@
     "incorrect_answers": ["Rome", "Hamburg", "Athens"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these Disney classics was released in 1970?",
@@ -6668,7 +6504,7 @@
     "incorrect_answers": ["Black", "White", "Yellow"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "The \"British Invasion\" was a cultural phenomenon in music where British boy bands became popular in the USA in what decade?",
@@ -6684,7 +6520,7 @@
     "incorrect_answers": ["Spice Road", "Clay Road", "Salt Road"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "The 1985 Toyota Corolla \"AE86\" was the hero car for what anime? ",
@@ -6708,7 +6544,7 @@
     "incorrect_answers": ["Leaves", "Male Flower", "Root Ball"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of the following is NOT a quote from the 1942 film Casablanca? ",
@@ -6720,7 +6556,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is Solid Snake's real name?",
@@ -6728,7 +6564,7 @@
     "incorrect_answers": ["Solid Snake", "John", "Huey"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the film \"Interstellar\", how long did they spend on Miller's planet?",
@@ -6740,7 +6576,7 @@
     ]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which 'Family Guy' character got his own spin-off show in 2009?",
@@ -6752,7 +6588,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who was the first jedi that Starkiller had to kill in Star Wars: The Force Unleashed?",
@@ -6760,7 +6596,7 @@
     "incorrect_answers": ["Ahsoka Tano", "Kazdan Paratus", "Kento Marek"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who voiced the character Draco in the 1996 movie 'DragonHeart'?",
@@ -6772,7 +6608,7 @@
     ]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the \"The Hobbit\", who kills Smaug?",
@@ -6780,7 +6616,7 @@
     "incorrect_answers": ["Bilbo Baggins", "Gandalf the Grey", "Frodo"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Forza Motorsport 6, which of these track-exclusive cars was NOT featured in the game, either originally with the game or added as DLC?",
@@ -6788,7 +6624,7 @@
     "incorrect_answers": ["Ferrari FXX-K", "McLaren P1 GTR", "Lotus E23"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which was the first video game to be produced by development company Rare?",
@@ -6804,7 +6640,7 @@
     "incorrect_answers": ["Flip-Flop Syndrome", "Split-Brain", "Blind Sight"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was the first \"Team Fortress 2\" update to include a war?",
@@ -6832,7 +6668,7 @@
     "incorrect_answers": ["Biryani", "Pani puri", "Tiki masala"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"Overwatch,\" what is the hero McCree's full name?",
@@ -6856,7 +6692,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Before Super Smash Bros. contained Nintendo characters, what was it known as internally?",
@@ -6868,7 +6704,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film \"The Curse of Frankenstein\"?",
@@ -6884,7 +6720,7 @@
     "incorrect_answers": ["2", "6", "3"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Mirror's Edge Catalyst takes place in the City of...?",
@@ -6900,7 +6736,7 @@
     "incorrect_answers": ["The Incas", "The Aztecs", "The Navajos"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which Kingdom Hearts game featured the cast of \"The World Ends With You\"?",
@@ -6920,7 +6756,7 @@
     "incorrect_answers": ["Buffalo", "New York", "Rochester"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "The voice actor for which Portal 2 character was not a TV or film actor prior to the game?",
@@ -6936,7 +6772,7 @@
     "incorrect_answers": ["Panevėžys", "Vilnius", "Klaipėda"]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the designation given to the Marvel Cinematic Universe?",
@@ -6952,7 +6788,7 @@
     "incorrect_answers": ["Binary", "Duodecimal", "Octal"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the Mass Effect trilogy, who is the main protagonist?",
@@ -6968,7 +6804,7 @@
     "incorrect_answers": ["Pirelli", "Bridgestone", "Michelin"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "How many playable characters are there in Super Smash Bros. for Nintendo 3DS and Wii U?",
@@ -6976,7 +6812,7 @@
     "incorrect_answers": ["48", "51", "55"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was the first Call of Duty game to include the Zombies gamemode?",
@@ -6988,7 +6824,7 @@
     ]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "The character Plum from \"No Game No Life\" is of what race?",
@@ -6996,7 +6832,7 @@
     "incorrect_answers": ["Flügel", "Imanity", "Seiren"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the game \"Brawlhalla\", what species is the character Bödvar is?",
@@ -7008,7 +6844,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the \"Devil May Cry\" franchise, which game is chronologically first?",
@@ -7016,7 +6852,7 @@
     "incorrect_answers": ["Devil May Cry 4", "Devil May Cry", "Devil May Cry 2"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which member of \"The Beatles\" narrated episodes of \"Thomas the Tank Engine\"?",
@@ -7024,7 +6860,7 @@
     "incorrect_answers": ["George Harrison", "John Lennon", "Paul McCartney"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is rapper Drake's real name?",
@@ -7032,7 +6868,7 @@
     "incorrect_answers": ["Shaun Carter", "Dwayne Carter", "Andre Young"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In \"Call Of Duty: Zombies\", what is the name of the machine that upgrades weapons?",
@@ -7040,7 +6876,7 @@
     "incorrect_answers": ["Wunderfizz", "Gersch Device", "Mule Kick"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which Sanrio character was introduced in 1996?",
@@ -7048,7 +6884,7 @@
     "incorrect_answers": ["My Melody", "Badtz-Maru", "Kerropi"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which actor portrays \"Walter White\" in the series \"Breaking Bad\"?",
@@ -7056,7 +6892,7 @@
     "incorrect_answers": ["Andrew Lincoln", "Aaron Paul", "RJ Mitte"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of the following won the first season of American Idol in 2002?",
@@ -7064,27 +6900,16 @@
     "incorrect_answers": ["Justin Guarini", "Ruben Studdard", "Chris Daughtry"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the name of Eragon's dragon in \"Eragon\"?",
     "correct_answer": "Saphira",
     "incorrect_answers": ["Glaedr", "Thorn", "Arya"]
   },
+
   {
-    "category": "Politics",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which former US president was nicknamed \"Teddy\" after he refused to shoot a defenseless black bear?",
-    "correct_answer": "Theodore Roosevelt",
-    "incorrect_answers": [
-      "Woodrow Wilson",
-      "James F. Fielder",
-      "Andrew Jackson"
-    ]
-  },
-  {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the show \"Fat Albert and the Cosby Kids\", what is the name of the characters' fictional gang?",
@@ -7104,7 +6929,7 @@
     "incorrect_answers": ["Milwaukee", "Wisconsin Dells", "Green Bay"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which occupation did John Tanner, the main protagonist for Driver and Driver 2, had before turning into an undercover cop?",
@@ -7132,7 +6957,7 @@
     "incorrect_answers": ["Patella", "Tibia", "Fibula "]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which company did Gabe Newell work at before founding Valve Corporation?",
@@ -7140,7 +6965,7 @@
     "incorrect_answers": ["Apple", "Google", "Yahoo"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who played Agent Fox Mulder in the TV sci-fi drama \"The X-Files\"?",
@@ -7156,7 +6981,7 @@
     "incorrect_answers": ["Panama", "Angola", "Egypt"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In which country's version of Half-Life are the HECU Marines replaced with robots?",
@@ -7184,7 +7009,7 @@
     "incorrect_answers": ["White", "Pink", "Green"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of the following Autobot names in Michael Bay's movies was NOT a name for a Transformer in the original 1980's cartoon?",
@@ -7200,7 +7025,7 @@
     "incorrect_answers": ["Rungata", "London", "Washington"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which famous rapper is featured in Jack Ü (Skrillex and Diplo)'s 2015 single called \"Febreze\"?",
@@ -7208,7 +7033,7 @@
     "incorrect_answers": ["Kendrick Lamar", "Future", "Fatman Scoop"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the name of the final boss in Turok: Dinosaur Hunter?",
@@ -7216,7 +7041,7 @@
     "incorrect_answers": ["The Primagen", "Oblivion", "Lord Tyrannus"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the name the location-based augmented reality game developed by Niantic before Pokémon GO?",
@@ -7232,7 +7057,7 @@
     "incorrect_answers": ["Uganda", "Vietnam", "Bolivia"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"Shakugan no Shana\" what was the Shana usually referred as?",
@@ -7244,7 +7069,7 @@
     ]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the anime, \"Super Sonico\", what is Super Sonico's favorite food?",
@@ -7252,7 +7077,7 @@
     "incorrect_answers": ["Ice Cream", "Pizza", "Chips"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Team Fortress 2, which class wields a shotgun?",
@@ -7280,7 +7105,7 @@
     "incorrect_answers": ["Pedophilia", "Tax evation", "Identity Fraud"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What type of genre is the controversial 2015 game \"Hatred\"?",
@@ -7300,7 +7125,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "During the game's development, what was the first ever created Pokémon?",
@@ -7308,7 +7133,7 @@
     "incorrect_answers": ["Bulbasaur", "Mew", "Arceus"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which of these weapon classes DO NOT appear in the first Monster Hunter game?",
@@ -7316,7 +7141,7 @@
     "incorrect_answers": ["Hammer", "Heavy Bowgun", "Light Bowgun"]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who wrote the Batman comic series \"The Killing Joke\"?",
@@ -7324,7 +7149,7 @@
     "incorrect_answers": ["Bill Finger", "Frank Miller", "Jerry Siegel"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In what year was the game \"Eliminator\" released?",
@@ -7332,7 +7157,7 @@
     "incorrect_answers": ["2000", "1999", "2001"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "\"Lift Your Spirit\" is an album by which artist?",
@@ -7340,7 +7165,7 @@
     "incorrect_answers": ["Lena Meyer-Landrut", "Stevie Wonder", "Taylor Swift"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
@@ -7360,7 +7185,7 @@
     "incorrect_answers": ["Houston", "Montreal", "New York"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?",
@@ -7372,7 +7197,7 @@
     ]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who created Ultron of Earth-616?",
@@ -7392,7 +7217,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of the following names is the \"Mega Man\" Franchise known as in Japan?",
@@ -7400,7 +7225,7 @@
     "incorrect_answers": ["Paperman", "Scissorsman", "Mega Man"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the 1995 film \"Balto\", who are Steele's accomplices?",
@@ -7412,7 +7237,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the Zombies mode of \"Call of Duty: Black Ops\", what is the \"Pack-A-Punched\" version of the \"Galil\" called?",
@@ -7424,7 +7249,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who is the main protagonist of \"Ace Combat Zero: The Belkan War\"?",
@@ -7443,14 +7268,7 @@
       "Bavaria, Poland"
     ]
   },
-  {
-    "category": "Politics",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which of the following United States senators is known for performing a 24-hour long filibuster?",
-    "correct_answer": "Strom Thurmond",
-    "incorrect_answers": ["Roy Blunt", "John Barrasso", "Chuck Schumer"]
-  },
+
   {
     "category": "Animals",
     "type": "multiple",
@@ -7484,7 +7302,7 @@
     "incorrect_answers": ["47 Earth years", "62 Earth years", "109 Earth years"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In which year was the Megadeth album \"Peace Sells... but Who's Buying?\" released?",
@@ -7524,23 +7342,16 @@
     "incorrect_answers": ["Royal Oak", "White Hart", "King's Head"]
   },
   {
-    "category": "Entertainment: Comics",
+    "category": "Comics",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
     "correct_answer": "Zodiac",
     "incorrect_answers": ["Scorpio", "Tiger Mafia", "The Union"]
   },
+
   {
-    "category": "Art",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which time signature is commonly known as “Cut Time?”",
-    "correct_answer": "2/2",
-    "incorrect_answers": ["4/4", "6/8", "3/4"]
-  },
-  {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the TV show \"Rick and Morty\", Rick uses the catchphrase \"Wubba Lubba Dub Dub\", which means what in Birdperson?",
@@ -7552,7 +7363,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was the code name for the \"Nintendo Gamecube\"?",
@@ -7560,7 +7371,7 @@
     "incorrect_answers": ["Nitro", "Revolution", "Atlantis"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who had a US and UK number 1 hit in 1962 with the instrumental, 'Telstar'?",
@@ -7568,7 +7379,7 @@
     "incorrect_answers": ["The Ventures", "The Spotnicks", "The Tremeloes"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who was the first jedi that Starkiller had to kill in Star Wars: The Force Unleashed?",
@@ -7592,7 +7403,7 @@
     "incorrect_answers": ["3", "4", "2"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Who won the 1989 Drum Corps International championships?",
@@ -7600,7 +7411,7 @@
     "incorrect_answers": ["Blue Devils", "The Academy", "The Bluecoats"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What was the FIRST Valve game to have VR?",
@@ -7608,7 +7419,7 @@
     "incorrect_answers": ["Dota 2", "Destinations", "Half-Life 2"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In Portal 2, how did CEO of Aperture Science, Cave Johnson, presumably die?",
@@ -7640,7 +7451,7 @@
     "incorrect_answers": ["E39", "E85", "F10"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Sting, the lead vocalist of The Police, primarily plays what instrument?",
@@ -7648,7 +7459,7 @@
     "incorrect_answers": ["Drums", "Guitar", "Keyboards"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "When was Final Fantasy XV released?",
@@ -7660,7 +7471,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Who in Pulp Fiction says \"No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is.\"",
@@ -7668,7 +7479,7 @@
     "incorrect_answers": ["Jules Winnfield", "Jimmie Dimmick", "Butch Coolidge"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who is the frontman of Muse?",
@@ -7676,7 +7487,7 @@
     "incorrect_answers": ["Dominic Howard", "Thom Yorke", "Jonny Greenwood"]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In standard Monopoly, what's the rent if you land on Park Place with no houses?",
@@ -7684,7 +7495,7 @@
     "incorrect_answers": ["$30", "$50", "$45"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In the game \"Subnautica\", which feature was removed due to performance issues in 2016?",
@@ -7692,7 +7503,7 @@
     "incorrect_answers": ["Building", "Crafting", "Multiplayer"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which 80s band is fronted by singer/guitarist Robert Smith?",
@@ -7700,7 +7511,7 @@
     "incorrect_answers": ["The Smiths", "Echo & the Bunnymen", "New Order"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?",
@@ -7716,7 +7527,7 @@
     "incorrect_answers": ["Southwest", "Northwest", "Northeast"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the show \"Steven Universe\", who are the main two employees of The Big Donut?",
@@ -7744,7 +7555,7 @@
     "incorrect_answers": ["8", "6", "5"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "The 'D' in the term \"D-Mail\" from the game \"Steins; Gate\" is short for what?",
@@ -7768,7 +7579,7 @@
     "incorrect_answers": ["Barcelona", "Bayern Munich", "Liverpool"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "hard",
     "question": "In the \"Jurassic Park\" universe, when did \"Jurassic Park: San Diego\" begin construction?",
@@ -7776,7 +7587,7 @@
     "incorrect_answers": ["1988", "1986", "1993"]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"Magic: The Gathering\", during the design for Planar Chaos, what color did the developers think of adding in as the sixth color?",
@@ -7792,7 +7603,7 @@
     "incorrect_answers": ["Justin DeSeno", "John DeSeno", "Jimmy DeSeno"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the last name of the primary female protagonist of Final Fantasy VIII?",
@@ -7800,7 +7611,7 @@
     "incorrect_answers": ["Loire", "Almasy", "Trepe"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "From which country does the piano originate?",
@@ -7808,7 +7619,7 @@
     "incorrect_answers": ["Germany", "Austria", "France"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What 1970's American ballad referred to the 1959 plane crash as the \"the day the music died\"?",
@@ -7832,7 +7643,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of the following weapons in \"Counter-Strike: Global Offensive\" does not have a right-click function?",
@@ -7840,7 +7651,7 @@
     "incorrect_answers": ["SG553", "R8 Revolver", "USP-S"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What album did Gorillaz release in 2017?",
@@ -7856,7 +7667,7 @@
     "incorrect_answers": ["Vladimir Komarov", "Charles Conrad", "Yuri Gagarin"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which of these characters from Final Fantasy VIII primarily spoke in one word sentences?",
@@ -7864,7 +7675,7 @@
     "incorrect_answers": ["Raijin", "Seifer", "Zell"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In World of Warcraft the default UI color that signifies Druid is what?",
@@ -7872,7 +7683,7 @@
     "incorrect_answers": ["Brown", "Green", "Blue"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What is the name of your team in Star Wars: Republic Commando?",
@@ -7880,7 +7691,7 @@
     "incorrect_answers": ["The Commandos", "Bravo Six", "Vader's Fist"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which \"Toy Story\" character was voiced by Don Rickles?",
@@ -7904,7 +7715,7 @@
     "incorrect_answers": ["Riyadh", "Mecca", "Medina"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which M83 album is the song \"Midnight City\" featured in?",
@@ -7916,7 +7727,7 @@
     ]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which of these Bojack Horseman characters is a human?",
@@ -7927,16 +7738,9 @@
       "Tom Jumbo-Grumbo"
     ]
   },
+
   {
-    "category": "Entertainment: Musicals & Theatres",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which of these musicals won the Tony Award for Best Musical?",
-    "correct_answer": "Rent",
-    "incorrect_answers": ["The Color Purple", "American Idiot", "Newsies"]
-  },
-  {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "How many members are there in the idol group \"µ's\"?",
@@ -7944,7 +7748,7 @@
     "incorrect_answers": ["48", "6", "3"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What was the first James Bond film?",
@@ -7960,7 +7764,7 @@
     "incorrect_answers": ["Hüdavendigar", "Söğüt", "Adrianople"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What is the name of the 2016 mixtape released by Venezuelan electronic producer Arca?",
@@ -7968,7 +7772,7 @@
     "incorrect_answers": ["&&&&&&", "Sheep", "Xen"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the standard frame rate for animation?",
@@ -7976,7 +7780,7 @@
     "incorrect_answers": ["12 FPS", "30 FPS", "60 FPS"]
   },
   {
-    "category": "Entertainment: Cartoon & Animations",
+    "category": "Cartoon & Animations",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which of the following films was Don Bluth both the writer, director, and producer for?",
@@ -7996,7 +7800,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In the game Dark Souls, what is the name of the region you're in for the majority of the game?",
@@ -8004,7 +7808,7 @@
     "incorrect_answers": ["Drangleic", "Oolacile", "Catarina"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In Terraria, which of the following items does the Martian Saucer mini-boss NOT drop?",
@@ -8068,7 +7872,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "When was Left 4 Dead 2 released?",
@@ -8084,7 +7888,7 @@
     "incorrect_answers": ["dr", "Dp", "r"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which of these is NOT a song by Pegboard Nerds?",
@@ -8092,7 +7896,7 @@
     "incorrect_answers": ["Swamp Thing", "Emoji", "BAMF"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Aoi Miyamori is the production manager of what anime in \"Shirobako\"?",
@@ -8100,7 +7904,7 @@
     "incorrect_answers": ["Exodus!", "Andes Chucky", "Angel Beats!"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In which year did \"Caravan Palace\" release their first album?",
@@ -8108,7 +7912,7 @@
     "incorrect_answers": ["2000", "2015", "2004"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which member of \"The Beatles\" narrated episodes of \"Thomas the Tank Engine\"?",
@@ -8128,7 +7932,7 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who directed the movie \"Alien\"?",
@@ -8136,7 +7940,7 @@
     "incorrect_answers": ["Christopher Nolan", "Michael Bay", "James Cameron"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who plays \"Bruce Wayne\" in the 2008 movie \"The Dark Knight\"?",
@@ -8144,7 +7948,7 @@
     "incorrect_answers": ["Michael Caine", "Ron Dean", "Heath Ledger"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which animation studio produced the anime adaptation of \"xxxHolic\"?",
@@ -8168,7 +7972,7 @@
     "incorrect_answers": ["1880", "1863", "1865"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which author co-wrote \"The Communist Manifesto\" alongside Karl Marx?",
@@ -8192,7 +7996,7 @@
     "incorrect_answers": ["7", "8", "5"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which song made by MAN WITH A MISSION was used as the opening for the anime \"Log Horizon\"?",
@@ -8204,7 +8008,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Killing Floor started as a mod for which Unreal Engine 2 game?",
@@ -8232,7 +8036,7 @@
     "incorrect_answers": ["Sword", "Pen", "Cellphone"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who had a 1976 hit with the song 'You Make Me Feel Like Dancing'?",
@@ -8240,7 +8044,7 @@
     "incorrect_answers": ["Elton John", "Billy Joel", "Andy Gibb"]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "On a standard Monopoly board, which square is diagonally opposite 'Go'? ",
@@ -8248,7 +8052,7 @@
     "incorrect_answers": ["Go to Jail", "Jail", "The Electric Company"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "easy",
     "question": "\"Green Eggs And Ham\" is a book by which author?",
@@ -8288,7 +8092,7 @@
     "incorrect_answers": ["Iran", "Turkey", "Azerbaijan"]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "hard",
     "question": "How many members are there in the idol group \"µ's\"?",
@@ -8296,7 +8100,7 @@
     "incorrect_answers": ["48", "6", "3"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "Which eSports team came first place in The International Dota 2 Championship 2016?",
@@ -8332,7 +8136,7 @@
     "incorrect_answers": ["Class 43", "Javelin", "Pendolino"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In which Mario game did the Mega Mushroom make its debut?",
@@ -8344,7 +8148,7 @@
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What year was the game \"Overwatch\" revealed?",
@@ -8352,7 +8156,7 @@
     "incorrect_answers": ["2015", "2011", "2008"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "In Undertale, what's the prize for answering correctly?",
@@ -8360,7 +8164,7 @@
     "incorrect_answers": ["New car", "Mercy", "Money"]
   },
   {
-    "category": "Entertainment: Board Games",
+    "category": "Board Games",
     "type": "multiple",
     "difficulty": "easy",
     "question": "The board game Monopoly takes its street names from which real American city?",
@@ -8372,7 +8176,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which song in Drake's \"Views\" features Future?",
@@ -8380,7 +8184,7 @@
     "incorrect_answers": ["Too Good", "Faithful", "Pop Style"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Books",
     "type": "multiple",
     "difficulty": "medium",
     "question": "The book \"The Little Prince\" was written by...",
@@ -8392,7 +8196,7 @@
     ]
   },
   {
-    "category": "Entertainment: Music",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In what film was the Michael Jackson song \"Will You Be There\" featured?",
@@ -8428,7 +8232,7 @@
     "incorrect_answers": ["Ariel Winter", "Emma Watson", "Bonnie Wright"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"JoJo's Bizarre Adventure\", which of the following Stands does NOT have a time-based ability?",
@@ -8444,7 +8248,7 @@
     "incorrect_answers": ["Helsinki", "Tartu", "Riga"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Video Games",
     "type": "multiple",
     "difficulty": "medium",
     "question": "In \"Call Of Duty: Zombies\", completing which map's easter egg will reward you with the achievement, \"Time Travel Will Tell\"?",
@@ -8452,7 +8256,7 @@
     "incorrect_answers": ["Ascension", "Moon", "Die Rise"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "Who directed the movie \"Alien\"?",
@@ -8460,7 +8264,7 @@
     "incorrect_answers": ["Christopher Nolan", "Michael Bay", "James Cameron"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie \"Avatar\"?",
@@ -8480,7 +8284,7 @@
     "incorrect_answers": ["Lavender", "Vanilla", "Honey"]
   },
   {
-    "category": "Entertainment: Japanese Anime & Manga",
+    "category": "Japanese Anime & Manga",
     "type": "multiple",
     "difficulty": "easy",
     "question": "What animation studio produced \"Gurren Lagann\"?",
@@ -8500,21 +8304,14 @@
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Film",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What film did James Cameron's Avatar dethrone as the highest-grossing film ever?",
     "correct_answer": "Titanic",
     "incorrect_answers": ["Star Wars", "Gone with the Wind", "Jaws"]
   },
-  {
-    "category": "Entertainment: Musicals & Theatres",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which Shakespeare play features the stage direction \"Enter a messenger, with two heads and a hand\"?",
-    "correct_answer": "Titus Andronicus",
-    "incorrect_answers": ["Othello", "Macbeth", "King Lear"]
-  },
+
   {
     "category": "Sports",
     "type": "multiple",
@@ -8548,7 +8345,7 @@
     "incorrect_answers": ["David Beckham", "Wayne Rooney", "Eric Cantona"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "What is the name of the inspector in the series \"On the Buses\"?",
@@ -8556,7 +8353,7 @@
     "incorrect_answers": ["Harper", "Naily", "Gally"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Television",
     "type": "multiple",
     "difficulty": "medium",
     "question": "The first half-hour CGI cartoon, ReBoot, aired on which year?",

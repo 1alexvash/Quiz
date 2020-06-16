@@ -1,22 +1,25 @@
-// what's name for spinner?
-
 import React, { useState, useEffect } from "react";
 
 import categoriesJSON from "../data/categories.json";
 
+import { useHistory } from "react-router-dom";
+
 const Quiz = () => {
   const [categories, setCategories] = useState([]);
+  const history = useHistory();
 
-  const selectTopic = (e) => {
-    alert(`Selected topic {${e.target.innerHTML}}`);
+  const selectTopic = (category) => {
+    history.push({
+      pathname: "/game",
+      state: { category },
+    });
   };
 
   useEffect(() => {
     const data = [];
 
-    while (data.length < 7) {
-      let random = Math.round(Math.random() * categoriesJSON.length);
-
+    while (data.length < 5) {
+      let random = Math.floor(Math.random() * categoriesJSON.length);
       data.push(categoriesJSON.splice(random, 1)[0]);
     }
 
@@ -30,9 +33,9 @@ const Quiz = () => {
         <h2>Choose topic:</h2>
 
         <div className="topics">
-          {categories.map(({ id, name }) => (
-            <button key={id} onClick={(e) => selectTopic(e)}>
-              {name}
+          {categories.map((category) => (
+            <button key={category} onClick={(e) => selectTopic(category)}>
+              {category}
             </button>
           ))}
         </div>
