@@ -15,7 +15,7 @@ questionsData.forEach((q) =>
   q.incorrect_answers.sort(() => 0.5 - Math.random())
 );
 
-const gameRoundTime = 20;
+const gameRoundTime = 15;
 
 const Game = () => {
   const [secondsLeft, setSecondsLeft] = useState(gameRoundTime);
@@ -67,13 +67,13 @@ const Game = () => {
 
   useEffect(() => {
     const timer = setInterval(() => {
-      if (secondsLeft === 0) {
+      if (secondsLeft <= 0.1) {
         noAnswer();
         setSecondsLeft(gameRoundTime);
       } else {
-        setSecondsLeft(secondsLeft - 1);
+        setSecondsLeft(secondsLeft - 0.1);
       }
-    }, 1000);
+    }, 100);
     return () => clearInterval(timer);
     // eslint-disable-next-line
   }, [secondsLeft]);

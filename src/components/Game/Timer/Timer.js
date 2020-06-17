@@ -7,7 +7,7 @@ const Timer = ({ secondsLeft, gameRoundTime }) => (
     <div className="icon">
       <img src={timerImg} alt="timer" />
     </div>
-    <div className="text">{Math.abs(secondsLeft.toFixed(1))}s</div>
+    <div className="text">{secondsLeft.toFixed(1)}s</div>
     <div className="progress">
       <div
         className="bar"
