@@ -21,9 +21,11 @@ const Game = () => {
   const [secondsLeft, setSecondsLeft] = useState(gameRoundTime);
   const [score, setScore] = useState(0);
   const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [questions, setQuestions] = useState(0);
+  const [answers, setAnswers] = useState([]);
+
   const location = useLocation();
   const category = location.state && location.state.category;
-  const [questions, setQuestions] = useState(0);
 
   const nextRound = () => {
     if (currentQuestion < questions.length) {
@@ -43,6 +45,15 @@ const Game = () => {
     const myAnswer = answer;
     const correctAnswer = questions[currentQuestion].correct_answer;
 
+    setAnswers([
+      ...answers,
+      {
+        question: questions[currentQuestion].question,
+        correctAnswer,
+        userAnswer: myAnswer,
+      },
+    ]);
+
     if (myAnswer === correctAnswer) {
       setScore(score + 1);
       playSound(successSound);
@@ -54,6 +65,16 @@ const Game = () => {
   };
 
   const noAnswer = () => {
+    const correctAnswer = questions[currentQuestion].correct_answer;
+    setAnswers([
+      ...answers,
+      {
+        question: questions[currentQuestion].question,
+        correctAnswer,
+        userAnswer: "-",
+      },
+    ]);
+
     playSound(failureSound);
     nextRound();
   };
@@ -105,7 +126,7 @@ const Game = () => {
         <Redirect
           to={{
             pathname: "/results",
-            state: { score },
+            state: { score, answers },
           }}
         />
       )}

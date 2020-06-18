@@ -10,67 +10,14 @@ const Results = () => {
   const [showAnswers, setShowAnswers] = useState(false);
   const location = useLocation();
 
-  let score;
+  let score, answers;
 
-  let answers = [
-    {
-      question: "What is the answer to equation 2 + 2",
-      correctAnswer: "4",
-      userAnswer: "4",
-    },
-    {
-      question: "What is the answer to equation 2 + 2 * 2",
-      correctAnswer: "6",
-      userAnswer: "8",
-    },
-    {
-      question: "What is the answer to equation 2 + 2",
-      correctAnswer: "4",
-      userAnswer: "4",
-    },
-    {
-      question: "What is the answer to equation 2 + 2 * 2",
-      correctAnswer: "6",
-      userAnswer: "8",
-    },
-    {
-      question: "What is the answer to equation 2 + 2",
-      correctAnswer: "4",
-      userAnswer: "4",
-    },
-    {
-      question: "What is the answer to equation 2 + 2 * 2",
-      correctAnswer: "6",
-      userAnswer: "8",
-    },
-    {
-      question: "What is the answer to equation 2 + 2",
-      correctAnswer: "4",
-      userAnswer: "4",
-    },
-    {
-      question: "What is the answer to equation 2 + 2 * 2",
-      correctAnswer: "6",
-      userAnswer: "8",
-    },
-    {
-      question: "What is the answer to equation 2 + 2",
-      correctAnswer: "4",
-      userAnswer: "4",
-    },
-    {
-      question: "What is the answer to equation 2 + 2 * 2",
-      correctAnswer: "6",
-      userAnswer: "8",
-    },
-  ];
-
-  // if (location.state) {
-  //   score = location.state.score;
-  // } else {
-  //   return <Redirect to={"/quiz"} />;
-  // }
-  score = 5;
+  if (location.state) {
+    score = location.state.score;
+    answers = location.state.answers;
+  } else {
+    return <Redirect to={"/quiz"} />;
+  }
 
   return (
     <div className="Results">
