@@ -286,6 +286,78 @@ body {
   background: #f2f2f2;
 }
 
+.Results .answers {
+  position: absolute;
+  overflow-y: scroll;
+  left: 50%;
+  height: 100%;
+  width: 480px;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+  background: #e6e6e6;
+  z-index: 1;
+  top: -100%;
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+.Results .answers.active {
+  top: 0;
+}
+
+@media (max-width: 640px) {
+  .Results .answers {
+    width: 100%;
+  }
+}
+
+.Results .answers .answer {
+  padding: 10px 0;
+  border-bottom: 2px solid black;
+}
+
+.Results .answers .answer:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.Results .answers .answer .question {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.Results .answers .answer .correct-answer,
+.Results .answers .answer .user-answer {
+  padding: 5px 0;
+}
+
+.Results .answers .answer .correct-answer img,
+.Results .answers .answer .user-answer img {
+  margin-left: 8px;
+  width: 16px;
+}
+
+.Results .answers .answer .correct-answer {
+  background: #b3ffb3;
+}
+
+.Results .answers .answer .user-answer {
+  border-top: 1px solid #333;
+  background: #ffb3b3;
+}
+
+.Results .answers .hide-answers {
+  cursor: pointer;
+  padding: 10px;
+  margin: auto;
+  display: block;
+  font-size: 20px;
+}
+
+.Results .answers .hide-answers:hover {
+  text-decoration: underline;
+}
+
 .Results .content {
   position: relative;
   top: 50%;
@@ -295,14 +367,23 @@ body {
   text-align: center;
 }
 
-.Results .content p {
+.Results .content .show-answers {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.Results .content .show-answers:hover {
+  text-decoration: underline;
+}
+
+.Results .content .score {
+  margin: 15px 0;
   font-size: 24px;
   font-weight: lighter;
 }
 
 .Results .content .play-again {
   cursor: pointer;
-  margin-top: 20px;
   display: inline-block;
   font-size: 20px;
   padding: 8px 20px;
