@@ -1,31 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1019c61056fad0dbb2accb4061432985",
+    "revision": "a5ec862a69be5f0d2018dd04385835bc",
     "url": "/Quiz/index.html"
   },
   {
-    "revision": "04124122d1cde581a50d",
-    "url": "/Quiz/static/css/main.1f0c7086.chunk.css"
+    "revision": "d607435f8340bd4b6e69",
+    "url": "/Quiz/static/css/main.8c449f11.chunk.css"
   },
   {
-    "revision": "9f4372f3d0d6f3cdef5d",
-    "url": "/Quiz/static/js/2.9d268d3c.chunk.js"
+    "revision": "7d2468661e668d09ea7d",
+    "url": "/Quiz/static/js/2.e33e3c1e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Quiz/static/js/2.9d268d3c.chunk.js.LICENSE.txt"
+    "url": "/Quiz/static/js/2.e33e3c1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04124122d1cde581a50d",
-    "url": "/Quiz/static/js/main.c9d17a2d.chunk.js"
+    "revision": "d607435f8340bd4b6e69",
+    "url": "/Quiz/static/js/main.723e51f3.chunk.js"
   },
   {
     "revision": "d97f62eb5c1ec7a787a6",
     "url": "/Quiz/static/js/runtime-main.621570c9.js"
   },
   {
+    "revision": "81fe09e139339a640e0e283d245bf081",
+    "url": "/Quiz/static/media/bad-answer.81fe09e1.png"
+  },
+  {
     "revision": "f1e343cfe7e5e7926dab3f6da21f9377",
     "url": "/Quiz/static/media/checkmark.f1e343cf.png"
+  },
+  {
+    "revision": "57eabbaa4f41fafd50f8678c4539d136",
+    "url": "/Quiz/static/media/good-answer.57eabbaa.png"
   },
   {
     "revision": "335ef8acf76accf9a4aabbcfc113818a",
