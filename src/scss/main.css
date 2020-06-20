@@ -51,6 +51,18 @@ body {
   margin-bottom: 10px;
 }
 
+@media (max-width: 640px) {
+  .Game h2 {
+    font-size: 24px;
+  }
+}
+
+@media (max-height: 640px) {
+  .Game h2 {
+    font-size: 24px;
+  }
+}
+
 .Game .answers button {
   overflow: hidden;
   position: relative;
@@ -66,6 +78,18 @@ body {
   -webkit-transition: 0.5s;
   transition: 0.5s;
   width: 100%;
+}
+
+@media (max-width: 640px) {
+  .Game .answers button {
+    padding: 10px 15px;
+  }
+}
+
+@media (max-height: 640px) {
+  .Game .answers button {
+    padding: 10px 15px;
+  }
 }
 
 .Game .answers button:after {
@@ -95,7 +119,7 @@ body {
 }
 
 .Game .Progress-bar {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   width: 8px;
@@ -121,14 +145,43 @@ body {
   height: 50px;
   line-height: 50px;
   text-align: center;
+  background: black;
+}
+
+@media (max-width: 640px) {
+  .Game .Progress-bar .text {
+    top: initial;
+    bottom: 35px;
+  }
+}
+
+@media (max-height: 640px) {
+  .Game .Progress-bar .text {
+    top: initial;
+    bottom: 35px;
+  }
 }
 
 .Game .Timer {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   padding: 20px;
   text-align: center;
+}
+
+@media (max-width: 640px) {
+  .Game .Timer {
+    top: initial;
+    bottom: 0;
+  }
+}
+
+@media (max-height: 640px) {
+  .Game .Timer {
+    top: initial;
+    bottom: 0;
+  }
 }
 
 .Game .Timer .icon img {
@@ -229,10 +282,34 @@ body {
   font-size: 48px;
 }
 
+@media (max-width: 640px) {
+  .Quiz h1 {
+    font-size: 36px;
+  }
+}
+
+@media (max-height: 640px) {
+  .Quiz h1 {
+    font-size: 36px;
+  }
+}
+
 .Quiz h2 {
   font-weight: 300;
   margin: 20px 0;
   font-size: 24px;
+}
+
+@media (max-width: 640px) {
+  .Quiz h2 {
+    font-size: 20px;
+  }
+}
+
+@media (max-height: 640px) {
+  .Quiz h2 {
+    font-size: 20px;
+  }
 }
 
 .Quiz .topics button {
@@ -249,6 +326,18 @@ body {
   -webkit-transition: 0.7s;
   transition: 0.7s;
   z-index: 1;
+}
+
+@media (max-width: 640px) {
+  .Quiz .topics button {
+    padding: 10px 15px;
+  }
+}
+
+@media (max-height: 640px) {
+  .Quiz .topics button {
+    padding: 10px 15px;
+  }
 }
 
 .Quiz .topics button:before {

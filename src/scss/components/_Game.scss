@@ -8,6 +8,9 @@
     text-align: center;
     font-size: 36px;
     margin-bottom: 10px;
+    @include responsive(640px, 640px) {
+      font-size: 24px;
+    }
   }
   .answers {
     button {
@@ -24,6 +27,9 @@
       font-weight: lighter;
       transition: 0.5s;
       width: 100%;
+      @include responsive(640px, 640px) {
+        padding: 10px 15px;
+      }
       &:after {
         content: "";
         position: absolute;
@@ -47,7 +53,7 @@
     }
   }
   .Progress-bar {
-    position: absolute;
+    position: fixed;
     top: 0;
     right: 0;
     width: 8px;
@@ -69,14 +75,23 @@
       height: 50px;
       line-height: 50px;
       text-align: center;
+      background: black;
+      @include responsive(640px, 640px) {
+        top: initial;
+        bottom: 35px;
+      }
     }
   }
   .Timer {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     padding: 20px;
     text-align: center;
+    @include responsive(640px, 640px) {
+      top: initial;
+      bottom: 0;
+    }
     .icon {
       img {
         width: 48px;

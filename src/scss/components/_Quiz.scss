@@ -9,11 +9,17 @@
   }
   h1 {
     font-size: 48px;
+    @include responsive(640px, 640px) {
+      font-size: 36px;
+    }
   }
   h2 {
     font-weight: 300;
     margin: 20px 0;
     font-size: 24px;
+    @include responsive(640px, 640px) {
+      font-size: 20px;
+    }
   }
   .topics {
     button {
@@ -29,6 +35,9 @@
       color: white;
       transition: 0.7s;
       z-index: 1;
+      @include responsive(640px, 640px) {
+        padding: 10px 15px;
+      }
       &:before {
         content: "";
         position: absolute;
